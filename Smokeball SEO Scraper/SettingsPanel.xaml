@@ -1,0 +1,21 @@
+﻿<Window x:Class="Smokeball_SEO_Scraper.SettingsPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Smokeball_SEO_Scraper"
+        mc:Ignorable="d"
+        Title="SettingsPanel" Height="450" Width="331">
+    <Grid>
+        <TextBox x:Name="valueToFindInSEO" HorizontalAlignment="Left" Margin="53,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="237" Height="16" Text="www.smokeball.com.au"/>
+        <TextBox x:Name="urlToUseForParsing" HorizontalAlignment="Left" Margin="53,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="237" Height="16" Text="https://www.google.com.au/search?num=100&amp;q=conveyancing+software"/>
+        <TextBox x:Name="resultFilterRegex" HorizontalAlignment="Left" Margin="53,163,0,0" TextWrapping="Wrap" Text="&lt;div class=&quot;Gx5Zad fP1Qef xpd EtOod pkphOe&quot;&gt;[\s\S]*?&lt;\/div&gt;" VerticalAlignment="Top" Width="237" Height="16"/>
+        <TextBox x:Name="divReplacementRegex" HorizontalAlignment="Left" Margin="53,0,0,0" TextWrapping="Wrap" Text="&lt;div class=&quot;Gx5Zad fP1Qef xpd EtOod pkphOe&quot;&gt;" VerticalAlignment="Center" Width="237" Height="16"/>
+        <Label x:Name="valueToFind" Content="Value to find" HorizontalAlignment="Left" Margin="53,33,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="resultRegex" Content="Result Filter Regex" HorizontalAlignment="Left" Margin="53,137,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="valueToSearchForParsing" Content="Value to use for Google SEO" HorizontalAlignment="Left" Margin="53,85,0,0" VerticalAlignment="Top"/>
+        <Label Content="Regex to find hanging Div Tags" HorizontalAlignment="Left" Margin="53,184,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Save" Content="Save Changes" HorizontalAlignment="Left" Margin="133,328,0,0" VerticalAlignment="Top" Click="Save_Click"/>
+
+    </Grid>
+</Window>

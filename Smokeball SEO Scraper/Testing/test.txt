@@ -1,0 +1,970 @@
+<!doctype html>
+<html lang="en-AU"><head>
+<meta charset="UTF-8"><meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"><title>conveyancing software - Google Search</title>
+<script nonce="W_ELUzUD1VzFIHGcVpRxEw">(function(){
+document.documentElement.addEventListener("submit",function(b){var a;if(a=b.target){var c=a.getAttribute("data-submitfalse");a="1"===c||"q"===c&&!a.elements.q.value?!0:!1}else a=!1;a&&(b.preventDefault(),b.stopPropagation())},!0);document.documentElement.addEventListener("click",function(b){var a;a:{for(a=b.target;a&&a!==document.documentElement;a=a.parentElement)if("A"===a.tagName){a="1"===a.getAttribute("data-nohref");break a}a=!1}a&&b.preventDefault()},!0);}).call(this);(function(){window.google=window.google||{};var a=window.performance&&window.performance.timing&&"navigationStart"in window.performance.timing,b=google.stvsc&&google.stvsc.ns,c=a?b||window.performance.timing.navigationStart:void 0,d=google.stvsc&&google.stvsc.rs,f=a?d||window.performance.timing.responseStart:void 0;var h=window.performance;window.start=Date.now();var k=window;h&&(c&&f&&f>c&&f<=window.start?(window.start=f,k.wsrt=f-c):h.now&&(k.wsrt=Math.floor(h.now())));var l=function(g){g&&g.target.setAttribute("data-iml",String(Date.now()))};document.documentElement.addEventListener("load",l,!0);google.rglh=function(){document.documentElement.removeEventListener("load",l,!0)};}).call(this);(function(){window.google.erd={jsr:1,bv:2003,de:true};})();(function(){var sdo=false;var mei=10;
+var h=this||self;var k,l=null!=(k=h.mei)?k:1,n,p=null!=(n=h.sdo)?n:!0,q=0,r,t=google.erd,v=t.jsr;google.ml=function(a,b,d,m,e){e=void 0===e?2:e;b&&(r=a&&a.message);void 0===d&&(d={});d.cad="ple_"+google.ple+".aple_"+google.aple;if(google.dl)return google.dl(a,e,d,!0),null;b=d;if(0>v){window.console&&console.error(a,b);if(-2===v)throw a;b=!1}else b=!a||!a.message||"Error loading script"===a.message||q>=l&&!m?!1:!0;if(!b)return null;q++;d=d||{};b=encodeURIComponent;var c="/gen_204?atyp=i&ei="+b(google.kEI);google.kEXPI&&(c+="&jexpid="+b(google.kEXPI));c+="&srcpg="+b(google.sn)+"&jsr="+b(t.jsr)+
+"&bver="+b(t.bv);var f=a.lineNumber;void 0!==f&&(c+="&line="+f);var g=a.fileName;g&&(0<g.indexOf("-extension:/")&&(e=3),c+="&script="+b(g),f&&g===window.location.href&&(f=document.documentElement.outerHTML.split("\n")[f],c+="&cad="+b(f?f.substring(0,300):"No script found.")));google.ple&&1===google.ple&&(e=2);c+="&jsel="+e;for(var u in d)c+="&",c+=b(u),c+="=",c+=b(d[u]);c=c+"&emsg="+b(a.name+": "+a.message);c=c+"&jsst="+b(a.stack||"N/A");12288<=c.length&&(c=c.substr(0,12288));a=c;m||google.log(0,"",a);return a};window.onerror=function(a,b,d,m,e){r!==a&&(a=e instanceof Error?e:Error(a),void 0===d||"lineNumber"in a||(a.lineNumber=d),void 0===b||"fileName"in a||(a.fileName=b),google.ml(a,!1,void 0,!1,"SyntaxError"===a.name||"SyntaxError"===a.message.substring(0,11)||-1!==a.message.indexOf("Script error")?3:0));r=null;p&&q>=l&&(window.onerror=null)};})();(function(){var c=[],e=0;window.ping=function(b){-1==b.indexOf("&zx")&&(b+="&zx="+Date.now());var a=new Image,d=e++;c[d]=a;a.onerror=a.onload=a.onabort=function(){delete c[d]};a.src=b};}).call(this);</script>
+<style>a{color:#1a0dab;text-decoration:none;tap-highlight-color:rgba(0,0,0,.10)}a:visited{color:#4b11a8}a:hover{text-decoration:underline}img{border:0}html{font-family:arial,sans-serif;font-size:14px;line-height:20px;text-size-adjust:100%;color:#3c4043;word-wrap:break-word;background-color:#fff}.bRsWnc{background-color:#fff;border-top:1px solid #dadce0;height:39px;overflow:hidden}.N6RWV{height:51px;overflow-scrolling:touch;overflow-x:auto;overflow-y:hidden}.Uv67qb{box-pack:justify;font-size:12px;line-height:37px;justify-content:space-between;justify-content:space-between}.Uv67qb a,.Uv67qb span{color:#70757a;display:block;flex:none;padding:0 16px;text-align:center;text-transform:uppercase;}span.OXXup{border-bottom:2px solid #4285f4;color:#4285f4;font-weight:bold}a.eZt8xd:visited{color:#70757a}.FElbsf{border-left:1px solid rgba(0,0,0,.12)}header article{overflow:visible}.Pg70bf{height:39px;display:box;display:flex;display:flex;width:100%}.H0PQec{position:relative;flex:1}.sbc{display:flex;width:100%}.Pg70bf input{margin:2px 4px 2px 8px;}.x{width:26px;color:#70757a;font:27px/38px arial, sans-serif;line-height:40px;}#qdClwb{flex:0 0 auto;width:39px;height:39px;border-bottom:0;padding:0;border-top-right-radius:8px;background-color:#1a73e8;border:1px solid #1a73e8;background-image:url(data:image/gif;base64,R0lGODdhJAAjAPIHAODr/nCk+MPZ/FmV96zK+/7+/5K5+kqL9iwAAAAAJAAjAEADani63P4wykmbKcQRXDscQAEMXmmeaLQVLCukzyC09AjfeK7v/MAajACLhPMVAgwjsUcEiZa8xgAYrVqv2Kx2iwsIAAABknfBBAKrTE4IcMyot8ur8datqIbQfJdnAfo2WE6BV05wXIiJigkAOw==);}.sc{font-size:16px;position:absolute;top:39px;left:0;right:0;box-shadow:0 2px 5px rgba(0,0,0,.2);z-index:2;background-color:#fff}.sc>div{padding:10px 10px;padding-left:16px;padding-left:14px;border-top:1px solid #dfe1e5;}.scs{background-color:#fafafa;}.noHIxc{display:block;font-size:16px;padding:0 0 0 8px;flex:1;height:35px;outline:none;border:none;width:100%;-webkit-tap-highlight-color:rgba(0,0,0,0);overflow:hidden;}.sbc input[type=text]{background:none}.bz1lBb{background-color:#fff;border-radius:8px 8px 0 0;box-shadow:0 0 0 1px #dfe1e5;margin-top:24px;}.KP7LCb{border-radius:0 0 8px 8px;box-shadow:0px 1px 0px 1px #dfe1e5;margin-bottom:30px;overflow:hidden}html{background-color:#fff}body{margin:0 auto 0 156px;max-width:652px;min-width:652px;padding:0 8px}.cOl4Id{letter-spacing:-1px;text-align:center;font:22pt Futura, Arial, sans-serif;font-smoothing:antialiased;height:37px;padding:32px 28px 0 24px;position:absolute;left:0;top:0}.cOl4Id span{display:inline-block}.V6gwVd{color:#4285f4}.iWkuvd{color:#ea4335}.cDrQ7{color:#fcc934}.ntlR9{color:#34a853}.tJ3Myc{-webkit-transform:rotate(-20deg);position:relative;left:-1px;display:inline-block}footer{text-align:center;margin-top:18px}footer a,footer a:visited,.smiUbb{color:#70757a}.xeDNfc{margin:0 13px;display:inline-block}#EOlPnc{margin-top:36px}#EOlPnc>div{margin:20px}.Srfpq{color:#70757a}</style></head>
+<body jsmodel="hspDDf "><header id="hdr"><script nonce="W_ELUzUD1VzFIHGcVpRxEw">(function(){
+var k=this||self,l=function(a){var b=typeof a;return"object"==b&&null!=a||"function"==b},m=function(a,b){function c(){}c.prototype=b.prototype;a.l=b.prototype;a.prototype=new c;a.prototype.constructor=a;a.s=function(d,e,f){for(var g=Array(arguments.length-2),h=2;h<arguments.length;h++)g[h-2]=arguments[h];return b.prototype[e].apply(d,g)}};var n=Array.prototype.indexOf?function(a,b){return Array.prototype.indexOf.call(a,b,void 0)}:function(a,b){if("string"===typeof a)return"string"!==typeof b||1!=b.length?-1:a.indexOf(b,0);for(var c=0;c<a.length;c++)if(c in a&&a[c]===b)return c;return-1};var p=function(a){return"string"==typeof a.className?a.className:a.getAttribute&&a.getAttribute("class")||""},q=function(a,b){"string"==typeof a.className?a.className=b:a.setAttribute&&a.setAttribute("class",b)},r=function(a,b){a.classList?b=a.classList.contains(b):(a=a.classList?a.classList:p(a).match(/\S+/g)||[],b=0<=n(a,b));return b},v=function(){var a=t,b=u;a.classList?a.classList.remove(b):r(a,b)&&q(a,Array.prototype.filter.call(a.classList?a.classList:p(a).match(/\S+/g)||[],function(c){return c!=
+b}).join(" "))};function w(){var a=k.navigator;return a&&(a=a.userAgent)?a:""};var x=function(a){x[" "](a);return a};x[" "]=function(){};var y=-1!=w().indexOf("Gecko")&&!(-1!=w().toLowerCase().indexOf("webkit")&&-1==w().indexOf("Edge"))&&!(-1!=w().indexOf("Trident")||-1!=w().indexOf("MSIE"))&&-1==w().indexOf("Edge");var z=function(a,b){this.type=a;this.target=b};z.prototype.g=function(){};var A=function(){if(!k.addEventListener||!Object.defineProperty)return!1;var a=!1,b=Object.defineProperty({},"passive",{get:function(){a=!0}});try{var c=function(){};k.addEventListener("test",c,b);k.removeEventListener("test",c,b)}catch(d){}return a}();var C=function(a){z.call(this,a?a.type:"");this.relatedTarget=this.target=null;this.button=this.screenY=this.screenX=this.clientY=this.clientX=0;this.key="";this.keyCode=0;this.metaKey=this.shiftKey=this.altKey=this.ctrlKey=!1;this.state=null;this.pointerId=0;this.pointerType="";this.i=null;if(a){var b=this.type=a.type,c=a.changedTouches&&a.changedTouches.length?a.changedTouches[0]:null;this.target=a.target||a.srcElement;var d=a.relatedTarget;if(d){if(y){a:{try{x(d.nodeName);var e=!0;break a}catch(f){}e=
+!1}e||(d=null)}}else"mouseover"==b?d=a.fromElement:"mouseout"==b&&(d=a.toElement);this.relatedTarget=d;c?(this.clientX=void 0!==c.clientX?c.clientX:c.pageX,this.clientY=void 0!==c.clientY?c.clientY:c.pageY,this.screenX=c.screenX||0,this.screenY=c.screenY||0):(this.clientX=void 0!==a.clientX?a.clientX:a.pageX,this.clientY=void 0!==a.clientY?a.clientY:a.pageY,this.screenX=a.screenX||0,this.screenY=a.screenY||0);this.button=a.button;this.keyCode=a.keyCode||0;this.key=a.key||"";this.ctrlKey=a.ctrlKey;this.altKey=a.altKey;this.shiftKey=a.shiftKey;this.metaKey=a.metaKey;this.pointerId=a.pointerId||0;this.pointerType="string"===typeof a.pointerType?a.pointerType:B[a.pointerType]||"";this.state=a.state;this.i=a;a.defaultPrevented&&C.l.g.call(this)}};m(C,z);var B={2:"touch",3:"pen",4:"mouse"};C.prototype.g=function(){C.l.g.call(this);var a=this.i;a.preventDefault?a.preventDefault():a.returnValue=!1};var D="closure_listenable_"+(1E6*Math.random()|0);var E=0;var F=function(a,b,c,d,e){this.listener=a;this.proxy=null;this.src=b;this.type=c;this.capture=!!d;this.i=e;this.key=++E;this.g=this.j=!1},G=function(a){a.g=!0;a.listener=null;a.proxy=null;a.src=null;a.i=null};var H=function(a){this.src=a;this.g={};this.i=0};H.prototype.add=function(a,b,c,d,e){var f=a.toString();a=this.g[f];a||(a=this.g[f]=[],this.i++);var g;a:{for(g=0;g<a.length;++g){var h=a[g];if(!h.g&&h.listener==b&&h.capture==!!d&&h.i==e)break a}g=-1}-1<g?(b=a[g],c||(b.j=!1)):(b=new F(b,this.src,f,!!d,e),b.j=c,a.push(b));return b};var I="closure_lm_"+(1E6*Math.random()|0),J={},K=0,M=function(a,b,c,d,e){if(d&&d.once)return L(a,b,c,d,e);if(Array.isArray(b)){for(var f=0;f<b.length;f++)M(a,b[f],c,d,e);return null}c=N(c);return a&&a[D]?a.g(b,c,l(d)?!!d.capture:!!d,e):O(a,b,c,!1,d,e)},O=function(a,b,c,d,e,f){if(!b)throw Error("a");var g=l(e)?!!e.capture:!!e,h=P(a);h||(a[I]=h=new H(a));c=h.add(b,c,d,g,f);if(c.proxy)return c;d=Q();c.proxy=d;d.src=a;d.listener=c;if(a.addEventListener)A||(e=g),void 0===e&&(e=!1),a.addEventListener(b.toString(),d,e);else if(a.attachEvent)a.attachEvent(R(b.toString()),d);else if(a.addListener&&a.removeListener)a.addListener(d);else throw Error("b");K++;return c},Q=function(){var a=S,b=function(c){return a.call(b.src,b.listener,c)};return b},L=function(a,b,c,d,e){if(Array.isArray(b)){for(var f=0;f<b.length;f++)L(a,b[f],c,d,e);return null}c=N(c);return a&&a[D]?a.i(b,c,l(d)?!!d.capture:!!d,e):O(a,b,c,!0,d,e)},T=function(a){if("number"!==typeof a&&a&&!a.g){var b=a.src;if(b&&b[D])b.v(a);else{var c=a.type,d=a.proxy;b.removeEventListener?b.removeEventListener(c,d,a.capture):b.detachEvent?b.detachEvent(R(c),d):b.addListener&&b.removeListener&&b.removeListener(d);K--;if(c=P(b)){d=a.type;if(d in c.g){var e=c.g[d],f=n(e,a),g;(g=0<=f)&&Array.prototype.splice.call(e,f,1);g&&(G(a),0==c.g[d].length&&(delete c.g[d],c.i--))}0==c.i&&(c.src=null,b[I]=null)}else G(a)}}},R=function(a){return a in J?J[a]:J[a]="on"+a},S=function(a,b){if(a.g)a=!0;else{b=new C(b,this);var c=a.listener,d=a.i||a.src;a.j&&T(a);a=c.call(d,b)}return a},P=function(a){a=a[I];return a instanceof H?a:null},U="__closure_events_fn_"+(1E9*Math.random()>>>0),N=function(a){if("function"===typeof a)return a;a[U]||(a[U]=function(b){return a.handleEvent(b)});return a[U]};var u,t=document.documentElement,V;function W(){T(V);V=L(t,"mousedown",function(){v();X()},{capture:!0})}function X(){T(V);V=M(t,"keydown",function(a){if(9===a.keyCode){a=t;var b=u;if(a.classList)a.classList.add(b);else if(!r(a,b)){var c=p(a);q(a,c+(0<c.length?" "+b:b))}W()}})};u="zAoYTe";X();}).call(this);</script>
+<div class="cOl4Id"><a href="/?sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQOwgC"><span class="V6gwVd">G</span>
+<span class="iWkuvd">o</span>
+<span class="cDrQ7">o</span>
+<span class="V6gwVd">g</span>
+<span class="ntlR9">l</span>
+<span class="iWkuvd tJ3Myc">e</span></a></div>
+<div class="bz1lBb"><form class="Pg70bf" id="sf"><input name="num" value="100" type="hidden"><input name="sca_esv" value="580b38a03aa9e71a" type="hidden"><input name="sca_upv" value="1" type="hidden"><input name="ie" value="ISO-8859-1" type="hidden"><div class="H0PQec"><div class="sbc esbc"><input class="noHIxc" value="conveyancing software" autocapitalize="none" autocomplete="off" name="q" spellcheck="false" type="text"><input name="oq" type="hidden"><input name="aqs" type="hidden"><div class="x">×</div>
+<div class="sc"></div></div></div>
+<button id="qdClwb" type="submit"></button></form></div>
+<noscript>
+<meta content="0;url=/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;gbv=1&amp;sei=O1o5ZsGiKqGgnesPv4uciAE" http-equiv="refresh"><style>table,div,span,p{display:none}</style>
+<div style="display:block">Please click <a href="/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;gbv=1&amp;sei=O1o5ZsGiKqGgnesPv4uciAE">here</a> if you are not redirected within a few seconds.</div></noscript></header>
+<div id="main"><div>
+<div class="KP7LCb"> <div class="bRsWnc"> <div class="N6RWV"> <div class="Pg70bf Uv67qb"> <span class="OXXup">All</span>
+<a class="eZt8xd" href="/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;tbm=isch&amp;source=lnms&amp;sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ_AUIBigB">Images</a>
+<a class="eZt8xd" href="/url?q=/search%3Fq%3Dconveyancing%2Bsoftware%26num%3D100%26sca_esv%3D580b38a03aa9e71a%26sca_upv%3D1%26ie%3DUTF-8%26tbm%3Dshop%26source%3Dlnms%26ved%3D1t:200713%26ictx%3D111&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQiaAMCAcoAg&amp;usg=AOvVaw3rUh0G0umXxuR8b3IG0YLx">Shopping</a>
+<a class="eZt8xd" href="/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;tbm=nws&amp;source=lnms&amp;sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ_AUICCgD">News</a>  <a href="/url?q=https://maps.google.com.au/maps%3Fnum%3D100%26q%3Dconveyancing%2Bsoftware%26um%3D1%26ie%3DUTF-8%26ved%3D1t:200713%26ictx%3D111&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQiaAMCAkoBA&amp;usg=AOvVaw0vYb6WbYD7dHL75sfxVNSd">Maps</a>  <a href="/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;tbm=vid&amp;source=lnms&amp;sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ_AUICigF">Videos</a>  <a href="/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;tbm=bks&amp;source=lnms&amp;sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ_AUICygG">Books</a>  <div class="FElbsf"><a href="/advanced_search" style="white-space:nowrap" id="st-toggle" role="button">Search tools</a></div> </div> </div> </div> </div>
+<div class="Pg70bf wEsjbd Gx5Zad xpd EtOod pkphOe" style="display:none" id="st-card"><style>.wEsjbd{height:44px;white-space:nowrap}.coPU8c{height:60px;overflow-scrolling:touch;overflow-x:auto;overflow-y:hidden}.Xj2aue{height:44px;overflow:hidden}.RnNGze{margin:11px 16px}.wEsjbd div,.wEsjbd a,.wEsjbd li{outline-width:0;outline:none}</style>
+<div class="Xj2aue"><div class="coPU8c"><div class="RnNGze"><style>.PA9J5{display:inline-block}.RXaOfd,.tbcPJb{display:inline-block;height:22px;position:relative;padding-top:0;padding-bottom:0;padding-right:16px;padding-left:0;line-height:22px;cursor:pointer;text-transform:uppercase;font-size:12px;color:#70757a}.sa1toc{background:#fff;display:none;position:absolute;border:1px solid #dadce0;box-shadow:0 2px 4px rgba(0,0,0,.3);margin:0;white-space:nowrap;z-index:103;line-height:17px;padding-top:5px;padding-bottom:5px;padding-left:0}.PA9J5:hover .sa1toc{display:block}.mGSy8d a:active,.RXaOfd:active{color:#4285f4}</style>
+<div class="PA9J5"><div class="RXaOfd" role="button" tabindex="0"><style>.TWMOUc{display:inline-block;padding-right:14px;white-space:nowrap}.vQYuGf{font-weight:bold}.OmTIzf{border-color:#909090 transparent;border-style:solid;border-width:4px 4px 0 4px;width:0;height:0;margin-left:-10px;top:50%;margin-top:-2px;position:absolute}.RXaOfd:active .OmTIzf{border-color:#4285f4 transparent}</style>
+<div class="TWMOUc">Any country</div>
+<span class="OmTIzf"></span></div>
+<ul class="sa1toc ozatM"><style>.ozatM{font-size:12px;text-transform:uppercase}.ozatM .yNFsl,.ozatM li{list-style-type:none;list-style-position:outside;list-style-image:none}.yNFsl.SkUj4c,.yNFsl a{color:#70757a;text-decoration:none;padding:6px 44px 6px 14px;line-height:17px;display:block}.SkUj4c{background-image:url(//ssl.gstatic.com/ui/v1/menu/checkmark2.png);background-position:right center;background-repeat:no-repeat}.SkUj4c:active{background-color:#f8f9fa}</style>
+<li class="yNFsl SkUj4c"><style>.tbcPJb a{color:#70757a;text-decoration:none}</style>Any country</li>
+<li class="yNFsl"><a href="/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;source=lnt&amp;tbs=ctr:countryAU&amp;cr=countryAU&amp;sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQpwUIDQ">Country: Australia</a></li></ul></div>
+<div class="PA9J5"><div class="RXaOfd" role="button" tabindex="0"><div class="TWMOUc">Any time</div>
+<span class="OmTIzf"></span></div>
+<ul class="sa1toc ozatM"><li class="yNFsl SkUj4c">Any time</li>
+<li class="yNFsl"><a href="/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:h&amp;sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQpwUIDw">Past hour</a></li>
+<li class="yNFsl"><a href="/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:d&amp;sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQpwUIEA">Past 24 hours</a></li>
+<li class="yNFsl"><a href="/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:w&amp;sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQpwUIEQ">Past week</a></li>
+<li class="yNFsl"><a href="/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:m&amp;sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQpwUIEg">Past month</a></li>
+<li class="yNFsl"><a href="/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:y&amp;sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQpwUIEw">Past year</a></li></ul></div>
+<div class="PA9J5"><div class="RXaOfd" role="button" tabindex="0"><div class="TWMOUc">All results</div>
+<span class="OmTIzf"></span></div>
+<ul class="sa1toc ozatM"><li class="yNFsl SkUj4c">All results</li>
+<li class="yNFsl"><a href="/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;source=lnt&amp;tbs=li:1&amp;sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQpwUIFQ">Verbatim</a></li></ul></div></div></div></div>
+<script nonce="W_ELUzUD1VzFIHGcVpRxEw">(function(){var a=document.getElementById("st-toggle"),b=document.getElementById("st-card");a&&b&&a.addEventListener("click",function(c){b.style.display=b.style.display?"":"none";c.preventDefault()},!1);}).call(this);</script></div></div>
+<style>.Gx5Zad{background-color:#fff;margin-bottom:30px;box-shadow:0 0 0 1px #dfe1e5;border-radius:8px}.pkphOe{font-size:14px;line-height:22px;}.EtOod>*:first-child{border-top-left-radius:8px;border-top-right-radius:8px}.EtOod>*:last-child{border-bottom-left-radius:8px;border-bottom-right-radius:8px}.EtOod.avPKgf>*:last-child{border-bottom-left-radius:4px}.EtOod>.qxDOhb>*:first-child{border-top-left-radius:8px;border-top-right-radius:8px}.EtOod>.qxDOhb>*:last-child{border-bottom-left-radius:8px;border-bottom-right-radius:8px}.fP1Qef{background:transparent !important;box-shadow:none !important;border:none !important}.Gx5Zad.fP1Qef{margin-top:-12px;margin-bottom:18px}.jqWpsc,.jGGQ5e .jqWpsc{margin-bottom:-19px;position:relative;z-index:1}.rLshyf,.BmP5tf{padding-top:12px;padding-bottom:12px}.YOx3Ab{padding-left:16px;}.w1C3Le,.BmP5tf,.G5NbBd,.CS4w5b{padding-left:16px;padding-right:16px;}.G5NbBd{padding-bottom:12px}.CS4w5b{padding-top:12px}.dJMePd,.Qc4Zr{display:flex}.Qc4Zr{align-items:center}.T4Yo{justify-content:space-between}.v5yQqb{position:relative}a.fdYsqf{color:#4b11a8}.cz3goc{display:block;}.F7oSbc{padding-top:16px}.a7DO2d{padding-top:16px}.OdK6Dd{padding-top:4px}.QkcpZ{margin-bottom:5px;padding-right:20px}.d8lRkd{}.d8lRkd{white-space:nowrap}.Va3FIb{font-size:14px;font-family:arial,sans-serif;line-height:22px;padding-top:1px;margin-bottom:-1px}.lVm3ye{color:#202124}.TElO2c{white-space:nowrap}.yIn8Od{align-items:center;display:inline-flex;width:100%;}.U3A9Ac{background-color:#fff;color:#202124;display:inline-block;font-family:inherit;font-size:14px;font-weight:bold;margin-left:0px;white-space:nowrap}.U3A9Ac.HOR4Mc{background-color:transparent;color:#fff}.qV8iec{border-radius:3px;padding:1px 3px 0 2px;line-height:11px;margin-right:7px;}.irmCpc{padding:0;margin-right:0}.mZzqEf{padding:0 3px}.WFktfd{font-weight:400}.ob9lvb{color:#202124}.ob9lvb.HCMUuf{color:#5e5e5e}.r7TaRd{padding-left:8px}.ynAwRc{color:#1558d6}a:visited .ynAwRc,a:visited.ynAwRc{color:#681da8}.z8gr9e{color:#474747}.EE3Upf,.Va3FIb.EE3Upf{font-size:20px;line-height:26px;padding-top:1px;margin-bottom:-1px}.UPajGf{display:block;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}.jLvEdc{margin-top:6px;position:absolute;right:0;top:0}.oru2pc{clear:both}.c7YKNb{overflow:hidden}div.E8hWLe{padding-top:4px;padding-bottom:calc(12px*1);}.E8hWLe.Fc5wFe{padding-bottom:0}.lndKif{margin-top:-8px}.nEWj3b{display:inline-block;padding:8px 0}.NIGJ4d{display:inline-block;padding:8px 0 8px 26px}.SVMeif .nEWj3b.IwtZVc{align-items:center;display:flex;justify-content:space-between}.nRbjc{background-color:rgba(0,0,0,.03);border-radius:8px 8px 8px 8px;display:flex;flex-direction:column;height:40px;justify-content:center;margin:-8px 0 -6px 10px;overflow:hidden}.nRbjc g-img{align-items:center;background-color:#fff;display:flex;justify-content:center;overflow:hidden}.xEoONc{padding-top:6px;padding-bottom:6px}.OUBYFd{padding-bottom:2px}.XhLvtf{margin-top:-4px}.lKeYrd{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.KluGmf{-webkit-box-orient:vertical;display:-webkit-box;-webkit-line-clamp:2;max-width:300px;overflow:hidden;text-overflow:ellipsis}.gpHVGb,.gpHVGb.tNxQIb{font-size:14px !important;}.pj92yd,.pj92yd.tNxQIb{line-height:22px !important}.EiKadd,.EiKadd.tNxQIb{font-size:20px !important;}.NQ8dFd,.NQ8dFd.tNxQIb{line-height:26px !important}.rl7ilb{display:block;clear:both}.egMi0{margin-bottom:-19px}.kCrYT{padding:12px 16px 12px}.sCuL3{position:absolute;width:100%;top:0;left:0;padding-top:1px;margin-bottom:-1px}.j039Wc{padding-top:28px;margin-bottom:-1px}.DnJfK{position:relative}.l97dzf{font-weight:400}.zBAuLc{line-height:normal;margin:0;padding:0}.BNeawe{white-space:pre-line;word-wrap:break-word}.vvjwJb{color:#1a0dab;font-size:20px;line-height:26px}a:visited .vvjwJb,.vvjwJb a:visited{color:#4b11a8}.vvjwJb.HrGdeb{color:#fff}a:visited .vvjwJb.HrGdeb,.vvjwJb.HrGdeb a:visited{color:rgba(255,255,255,.70)}.UPmit{font-size:14px;line-height:22px}.UPmit.HrGdeb{color:rgba(255,255,255,.70)}.UPmit.AP7Wnd{color:#202124}.lRVwie{text-overflow:ellipsis;white-space:nowrap;overflow:hidden}.Ap5OSd{padding-bottom:12px}.s3v9rd{font-size:14px;line-height:22px}.s3v9rd.HrGdeb{color:#fff}.s3v9rd.AP7Wnd{color:#202124}.mSx1Ee{padding-left:48px;margin:0}.v9i61e{padding-bottom:8px}.K8tyEc{padding-bottom:12px}.mEUgP{font-weight:bold;font-size:16px;color:#000;padding:12px 16px 0px 16px;margin:0}.FCUp0c{font-weight:bold}.nRlVm .FCUp0c{background-color:#d3e3fd}.x54gtf{height:1px;background-color:#dadce0;margin:0 16px}.Q0HXG{height:1px;background-color:#dadce0}.C7GS5b{margin-left:12px;display:table-cell;vertical-align:middle}.rkGIWe{padding:14px}.xpc .hwc,.xpx .hwx{display:none}.iIWm4b{box-sizing:border-box;min-height:48px}.fLtXsc{padding:14px;position:relative}.NtmAdb{width:40px;height:40px;overflow:hidden;margin-top:-10px;margin-bottom:-16px;margin-right:8px;border-radius:4px}.xpc .NtmAdb{display:inline-block}.xpx .NtmAdb{display:none}.Lt3Tzc{display:inline-block;padding-right:26px;}.Lym8W{width:14px;height:20px;position:relative;margin:0 auto}.xCgLUe{position:absolute;margin-top:-10px;top:50%;}.Lym8W div{position:absolute;border-left:7px solid transparent;border-right:7px solid transparent;width:0;height:0;left:0}.IyYaEd{top:7px;border-top:7px solid #70757a}.ECUHQe{top:4px;border-top:7px solid #fff}.AeQQub{bottom:7px;border-bottom:7px solid #70757a}.YCU7eb{bottom:4px;border-bottom:7px solid #fff}.WZP0ub{display:inline-block;margin-left:5px;margin-top:-6px}.qxDOhb{border-radius:0}.yStFkb .xpd{box-shadow:none;border-radius:8px;border:1px solid #dadce0}.oTWEpb{padding-top:12px}.n1Qedd{overflow:hidden;text-align:center}.KMAGC{margin:0 auto;display:block}.ho0sdc{margin:0 -50%;display:inline-block}.Xb5VRe{color:#1a0dab}a:visited .Xb5VRe{color:#4b11a8}.Xb5VRe.tr0dw{color:#fff}a:visited .Xb5VRe.tr0dw{color:rgba(255,255,255,.70)}.P1NWSe{display:table;width:100%;padding-top:16px;padding-bottom:16px;margin-bottom:-12px}.wOMIed{display:table-cell;vertical-align:top}.nkPlDb{vertical-align:middle}.JhFlyf{color:#3c4043;font-size:14px;text-align:center}.VQFmSd{display:block;white-space:pre-line;word-wrap:break-word}.JhFlyf.VQFmSd{line-height:22px}.f4J0H{padding:18px}.r0bn4c.tr0dw{color:rgba(255,255,255,.70)}.r0bn4c.rQMQod{color:#70757a}.tP9Zud{display:inline-block;}.QzarWc{color:#3c4043}.oqSTJd{color:#70757a}.Hk2yDb,.Hk2yDb span{background-repeat:repeat-x;background-size:14px,14px;height:14px;width:70px}.Hk2yDb{display:inline-block;font-size:0;line-height:0;position:relative;top:1px}.Hk2yDb span{display:block}.Hk2yDb.KsR1A{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoBAMAAAB+0KVeAAAAD1BMVEVMaXEAAAAAAAAAAAAAAACF6eB8AAAABXRSTlMAID8OM2w9R7oAAACdSURBVHgBvdGBCcIwEEbhq+kAaXEA+5oBYuoAmnb/mQT5gcMDCoB+AIEA9y7EfmrIFl1uFrXVol4sSFBjB3LsQCzNsMQOlNjhq5S26Qrwmjbdp6PjlKMq4SiXwNOAhrOadDeymoyAPP1zfEUGJJvTNdFOLxFzElLPQqNb0/8F+x39iDTYzR56ucws7pBePtnU/aKomrpbM5sM1f7pDdrTIIXMnb07AAAAAElFTkSuQmCC)}.Hk2yDb.KsR1A span{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoBAMAAAB+0KVeAAAAGFBMVEVMaXH0tAD0tAD0tAD0tAD0tAD0tAD0tAB7hoq7AAAACHRSTlMAP6Ib/oXVZJ3/vYgAAADHSURBVHgBnNE1A4JgGARgmtHW0dxtZ+OA0dbRdrX/v+RLmkc/9H3MH2HjEcgVIrA1iMCZEoF7NWwycA6hBKxDmAZ6IawA/aDx0FMLoGjgKIAdA3d0WM89SkfYOZaWl5SOdwSiGe0EMW4/jkIP5vdeU2t2k14sUGugKJ6GKGdfG0aoE/+l509I7y/4azfiL7/l4IDIU4rmHwv0zZUH94AaZ421f4DO1ofVCFmgbGwbQNwzahtrJ4sRoUQvva8JuRo9vcA8RyMAAIXWR1O6HNlyAAAAAElFTkSuQmCC)}.lcJF1d{border-radius:8px;margin-left:16px;float:right;}.h1hFNe{display:inline-block;position:relative}.Q6Xouf{overflow:hidden}.G6SP0b{display:inline-block}.eeoFaf{position:relative}.oz9fhd{background-color:rgba(0,0,0,.12)}.S9HcI{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.UhWgBb{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAABl0lEQVR4Ae2XveraUBiHY4xD3URx8F+9gHZW9EKEOgi9Cz8uQFtXiwRsobvgIoLXIfYCKrqoaadCk+Xp4HiSc15PQkvB512FB37xvB/Ok/8BXDqMWXMgICIi4MCaEW1cHFOZftBgxpkkTnygbi+osiTCRIhPxUbQ5wdSAnqPCQp84VF8PKmgyA4bthQlggI7bNnimQWfSYNvEvRJyzudoMpP0nKjnCxYkgWLJEFD+6ze8wsZIS/xghk6HN7wDRnTOIHLGR33F/IVCUdyqqCDHudewqhaqmAsEwijGqqCtUwgjGqlCg4ygTCqvSoIZAJhVFdVEMkEwqjCvyiwj+gt8oiy/8j/4G86QosSjZ6BKmhn2iqaqsDllFmz+x7X7Bw+ouMejYxJ/DyoZzRwflNLGpk+WTBPnskVAtJyoaRbW3qkpWtavHzS8Mm82XlssWVDXrb82ik2vJKu7x6+RTj5xw6QHjekXOjanFBlFoSCZzWnZH8EvmbKUdNzJtQER6ChXFoMWbHnSkjIlT0rBjTJyc/Y7OspkNYf1H6eRU02jH0AAAAASUVORK5CYII=);background-repeat:no-repeat;background-position:center}.oyqqef{background:rgba(32, 33, 36, 0.5);position:absolute;border-radius:4px;padding:2px 6px}.cAuxJf{}.deIvCb{font-size:16px;line-height:20px;font-weight:400}.deIvCb.HrGdeb{color:#fff}.deIvCb.AP7Wnd{color:#202124}.tAd8D{font-size:14px;line-height:20px}.tAd8D.HrGdeb{color:rgba(255,255,255,.70)}.tAd8D.AP7Wnd{color:#70757a}.Xdlr0d{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 -8px;padding:2px 0 16px 24px;margin-top:-2px;transform:translate3d(0,0,0)}.idg8be{display:table;border-collapse:separate;border-spacing:8px 0;margin:0 -8px;padding-right:16px}.BVG0Nb{display:table-cell;vertical-align:top;overflow:hidden;background-color:#fff;border-radius:8px;box-shadow:0 0 0 1px #dfe1e5}.WddBJd{display:block;margin:0 auto;}.RJI4s{vertical-align:middle}.mHhylf{display:table-cell;vertical-align:middle}.WZ5GJf{align-items:center;padding:0 20px;min-width:112px}.qN9Ked,.DXk5Me{margin:0 auto;}.DXk5Me{cursor:pointer;margin-bottom:12px}.Dk7jOe{display:block;margin:0 auto}.Qi9Fd{border:0;border-radius:999px;display:block;height:56px;justify-content:center;width:56px;z-index:0;background:#fff}.Qi9Fd{box-shadow:0 0 0 1px #dfe1e5,inset 0 0 0 0 rgba(0,0,0,.1),inset 0 0 0 0 rgba(255,255,255,.5)}.Qi9Fd:focus{outline:none}.Qi9Fd .hWHuJ{display:block;margin:0 auto}.ji5jpf{text-align:center}.gGQDvd{position:relative;padding:14px}.Q71vJc{display:block;position:relative;width:100%}.kjGX2{position:absolute;vertical-align:bottom;display:inline-block;color:#474747;left:48px;right:0}.ieB2Dd{overflow:hidden;margin-top:-10px;margin-bottom:-16px;margin-right:8px;border-radius:4px;display:inline-block;border-radius:50%;padding:10px}.OEaqif{width:20px;height:20px;display:block}.nMymef{display:flex}.G5eFlf{flex:1;display:block}.nMymef span{text-align:center}.EYqSq{margin:6px 4px 9px 0;border-radius:100%;display:inline-block;height:10px;vertical-align:middle;width:10px}.dfB0uf{color:#3c4043;font-weight:bold}.IffyKc{word-wrap:break-word}</style>
+<div></div>
+<div class="uEierd"><div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="v5yQqb jqWpsc"><a class="cz3goc BmP5tf" role="presentation" href="http://www.google.com.au/aclk?sa=l&amp;ai=DChcSEwjXw-mIivqFAxVUL4MDHb33CIwYABAAGgJzZg&amp;gclid=EAIaIQobChMI18PpiIr6hQMVVC-DAx299wiMEAAYASAAEgIA5_D_BwE&amp;sig=AOD64_0pBfek9ZXima5gK8M0KbSN1ZjASg&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ0Qx6BAhmEAE&amp;adurl=" data-impdclcc="1" data-al="1" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ0Qx6BAhmEAE"><div class="QkcpZ"><div>
+<div class="d8lRkd OSrXXb Va3FIb lVm3ye TElO2c" role="link" aria-label="www.clio.com/au/legal-software"><span class="CnP9N U3A9Ac irmCpc">Ad<span style="padding:0 5px">&middot;</span></span>
+<span aria-hidden="true" class="ob9lvb" data-dtld="clio.com" role="text">www.clio.com/au/legal-software</span></div></div></div>
+<div class="CCgQ5 Va3FIb EE3Upf TElO2c OSrXXb" aria-level="3" role="heading"><span>Legal Software - Built for Law Firms - Free Trial &amp; Free Demo</span></div></a>
+<span></span></div>
+<w-ad-creative-spacer>
+<div class="oru2pc" style="height:12px"></div></w-ad-creative-spacer>
+<div class="w1C3Le"><div class="Va3FIb r025kc lVm3ye"><div>Legal Software. Try it for free today&#8212;no credit card required. Clio is trusted by 150k+ legal professionals and approved by 90+ bar associations.</div></div></div>
+<w-ad-creative-spacer>
+<div class="oru2pc" style="height:12px"></div></w-ad-creative-spacer>
+<div class="nS9mjd E8hWLe lndKif BmP5tf"><div class="DkX4ue XhLvtf Va3FIb EE3Upf lVm3ye"><a class="xEoONc nEWj3b gpHVGb pj92yd Cxb6Wc gsrt tNxQIb" href="http://www.google.com.au/aclk?sa=l&amp;ai=DChcSEwjXw-mIivqFAxVUL4MDHb33CIwYABAEGgJzZg&amp;gclid=EAIaIQobChMI18PpiIr6hQMVVC-DAx299wiMEAAYASACEgJsV_D_BwE&amp;sig=AOD64_0bux867kGa1KERghVCbAcgGUWZ8g&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQwgUoAHoECGYQAw&amp;adurl=" data-impdclcc="1" data-al="1" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQwgUoAHoECGYQAw"><div class="lKeYrd O45XLd">Our Pricing</div></a></div>
+<div class="DkX4ue XhLvtf Va3FIb EE3Upf lVm3ye"><a class="xEoONc nEWj3b gpHVGb pj92yd Cxb6Wc gsrt tNxQIb" href="http://www.google.com.au/aclk?sa=l&amp;ai=DChcSEwjXw-mIivqFAxVUL4MDHb33CIwYABADGgJzZg&amp;gclid=EAIaIQobChMI18PpiIr6hQMVVC-DAx299wiMEAAYASABEgJBEvD_BwE&amp;sig=AOD64_3VtwKL01Av0ZQaY99iUnX6UupANg&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQwgUoAXoECGYQBA&amp;adurl=" data-impdclcc="1" data-al="1" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQwgUoAXoECGYQBA"><div class="lKeYrd O45XLd">Practice Areas</div></a></div>
+<div class="DkX4ue XhLvtf Va3FIb EE3Upf lVm3ye"><a class="xEoONc nEWj3b gpHVGb pj92yd Cxb6Wc gsrt tNxQIb" href="http://www.google.com.au/aclk?sa=l&amp;ai=DChcSEwjXw-mIivqFAxVUL4MDHb33CIwYABAFGgJzZg&amp;gclid=EAIaIQobChMI18PpiIr6hQMVVC-DAx299wiMEAAYASADEgJUTvD_BwE&amp;sig=AOD64_22vXTGi1ZFWSKNVfMlGnScDezCuA&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQwgUoAnoECGYQBQ&amp;adurl=" data-impdclcc="1" data-al="1" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQwgUoAnoECGYQBQ"><div class="lKeYrd O45XLd">Client Intake</div></a></div>
+<div class="DkX4ue XhLvtf IBylpb Va3FIb EE3Upf lVm3ye"><a class="xEoONc OUBYFd nEWj3b OMVs0e gpHVGb pj92yd Cxb6Wc gsrt tNxQIb" href="http://www.google.com.au/aclk?sa=l&amp;ai=DChcSEwjXw-mIivqFAxVUL4MDHb33CIwYABAGGgJzZg&amp;gclid=EAIaIQobChMI18PpiIr6hQMVVC-DAx299wiMEAAYASAEEgJJk_D_BwE&amp;sig=AOD64_2UrztbSz7CxW9QDMEOfwRNwA1dFA&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQwgUoA3oECGYQBg&amp;adurl=" data-impdclcc="1" data-al="1" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQwgUoA3oECGYQBg"><div class="lKeYrd O45XLd">Legal Practice Management</div></a></div></div></div></div></div>
+<div class="uEierd"><div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="v5yQqb jqWpsc"><a class="cz3goc BmP5tf" role="presentation" href="http://www.google.com.au/aclk?sa=l&amp;ai=DChcSEwjXw-mIivqFAxVUL4MDHb33CIwYABABGgJzZg&amp;gclid=EAIaIQobChMI18PpiIr6hQMVVC-DAx299wiMEAAYAiAAEgKLGvD_BwE&amp;sig=AOD64_0hjOiXkKEBgDhhmWKpcYdgzvLUeg&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ0Qx6BAhnEAE&amp;adurl=" data-impdclcc="1" data-al="1" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ0Qx6BAhnEAE"><div class="QkcpZ"><div>
+<div class="d8lRkd OSrXXb Va3FIb lVm3ye TElO2c" role="link" aria-label="www.capterra.com/conveyancing/free-list"><span class="CnP9N U3A9Ac irmCpc">Ad<span style="padding:0 5px">&middot;</span></span>
+<span aria-hidden="true" class="ob9lvb" data-dtld="capterra.com" role="text">www.capterra.com/conveyancing/free-list</span></div></div></div>
+<div class="CCgQ5 Va3FIb EE3Upf TElO2c OSrXXb" aria-level="3" role="heading"><span>Top 10 Conveyancing Software</span></div></a>
+<span></span></div>
+<w-ad-creative-spacer>
+<div class="oru2pc" style="height:12px"></div></w-ad-creative-spacer>
+<div class="w1C3Le"><div class="Va3FIb r025kc lVm3ye TElO2c OSrXXb"><div>Free List of the Top Products &#8212; Easily Find The Conveyancing Case Mgmt Software You're Looking For w/ Our Comparison Grid.</div></div></div>
+<w-ad-creative-spacer>
+<div class="oru2pc" style="height:12px"></div></w-ad-creative-spacer></div></div></div>
+<div class="uEierd"><div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="v5yQqb jqWpsc"><a class="cz3goc BmP5tf" role="presentation" href="http://www.google.com.au/aclk?sa=l&amp;ai=DChcSEwjXw-mIivqFAxVUL4MDHb33CIwYABACGgJzZg&amp;gclid=EAIaIQobChMI18PpiIr6hQMVVC-DAx299wiMEAAYAyAAEgLnxfD_BwE&amp;sig=AOD64_3omvtX3gfJS58kSZ-ukiG-hMca_w&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ0Qx6BAhoEAE&amp;adurl=" data-impdclcc="1" data-al="1" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ0Qx6BAhoEAE"><div class="QkcpZ"><div>
+<div class="d8lRkd OSrXXb Va3FIb lVm3ye TElO2c" role="link" aria-label="www.actionstep.com/legal_software/law_firm_system"><span class="CnP9N U3A9Ac irmCpc">Ad<span style="padding:0 5px">&middot;</span></span>
+<span aria-hidden="true" class="ob9lvb" data-dtld="actionstep.com" role="text">www.actionstep.com/legal_software/law_firm_system</span></div></div></div>
+<div class="CCgQ5 Va3FIb EE3Upf TElO2c OSrXXb" aria-level="3" role="heading"><span>All-in-one Legal Software | Law Firm Software - Actionstep</span></div></a>
+<span></span></div>
+<w-ad-creative-spacer>
+<div class="oru2pc" style="height:12px"></div></w-ad-creative-spacer>
+<div class="w1C3Le"><div class="Va3FIb r025kc lVm3ye TElO2c OSrXXb"><div>Complete legal practice management system, built in the cloud, with workflow at its heart.</div></div></div>
+<w-ad-creative-spacer>
+<div class="oru2pc" style="height:12px"></div></w-ad-creative-spacer></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.smokeball.com.au/practice-area/conveyancing-software&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECGQQAg&amp;usg=AOvVaw0zPqJXBWD7CH2gIANkgkxB" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECGQQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Best Conveyancing Law Firm Software - Smokeball Australia</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.smokeball.com.au &#8250; practice-area &#8250; conveyancing-software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Streamline conveyancing processes with our cutting-edge software for law firms. Enhance efficiency and accuracy. Discover Smokeball's conveyancing software ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad xpd EtOod pkphOe"><div class="K8tyEc"><div class="mEUgP"><span>
+<div class="BNeawe"><span class="FCUp0c rQMQod">People also ask</span></div></span></div></div>
+<div class="x54gtf"></div>
+<div>
+<div class="xpc"><div class="duf-h"><div class="fLtXsc iIWm4b" aria-expanded="false" id="tsuid_1" role="button" tabindex="0" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQuk56BAgHEAI"><div class="Lt3Tzc">What software do conveyancers use?</div>
+<div>
+<div class="Lym8W xCgLUe"><div class="AeQQub hwc"></div>
+<div class="YCU7eb hwc"></div>
+<div class="IyYaEd hwx"></div>
+<div class="ECUHQe hwx"></div></div></div></div></div>
+<div class="qxDOhb" id="accdef_1"></div></div></div>
+<div class="x54gtf"></div>
+<div>
+<div class="xpc"><div class="duf-h"><div class="fLtXsc iIWm4b" aria-expanded="false" id="tsuid_2" role="button" tabindex="0" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQuk56BAgHEAk"><div class="Lt3Tzc">How much is a conveyancer fee in NSW?</div>
+<div>
+<div class="Lym8W xCgLUe"><div class="AeQQub hwc"></div>
+<div class="YCU7eb hwc"></div>
+<div class="IyYaEd hwx"></div>
+<div class="ECUHQe hwx"></div></div></div></div></div>
+<div class="qxDOhb" id="accdef_3"></div></div></div>
+<div class="x54gtf"></div>
+<div>
+<div class="xpc"><div class="duf-h"><div class="fLtXsc iIWm4b" aria-expanded="false" id="tsuid_3" role="button" tabindex="0" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQuk56BAgHEBA"><div class="Lt3Tzc">Is conveyancing.com.au good?</div>
+<div>
+<div class="Lym8W xCgLUe"><div class="AeQQub hwc"></div>
+<div class="YCU7eb hwc"></div>
+<div class="IyYaEd hwx"></div>
+<div class="ECUHQe hwx"></div></div></div></div></div>
+<div class="qxDOhb" id="accdef_5"></div></div></div>
+<div class="x54gtf"></div>
+<div>
+<div class="xpc"><div class="duf-h"><div class="fLtXsc iIWm4b" aria-expanded="false" id="tsuid_4" role="button" tabindex="0" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQuk56BAgHEBc"><div class="Lt3Tzc">Is conveyancer worth it?</div>
+<div>
+<div class="Lym8W xCgLUe"><div class="AeQQub hwc"></div>
+<div class="YCU7eb hwc"></div>
+<div class="IyYaEd hwx"></div>
+<div class="ECUHQe hwx"></div></div></div></div></div>
+<div class="qxDOhb" id="accdef_7"></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.leapconveyancer.com.au/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCgQAg&amp;usg=AOvVaw0mkdyUHUZkXQxHjlKCD3nL" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCgQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">LEAP Conveyancer: Conveyancing Practice Management Software</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.leapconveyancer.com.au</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Australia's most widely used practice management system for e-Conveyancing · Combined and editable PDFs · Secure sharing with LawConnect · Critical dates and ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.trisearch.com.au/triconvey/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCcQAg&amp;usg=AOvVaw0-RAkmTrC7B8UoLThOw4Ga" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCcQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">triConvey - triSearch</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.trisearch.com.au &#8250; triconvey</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">triConvey is a practice management software built for conveyancers. With powerful integrated tools and automations, triConvey creates time for users so they ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://realtimeconveyancer.com.au/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECGMQAg&amp;usg=AOvVaw1jQBMEYHnBRmWpux96hUCx" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECGMQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Realtime Conveyancer &#8211; Australia's Leading Digital Property ...</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">realtimeconveyancer.com.au</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">For conveyancers: Seamless transaction management software that lets your office go paperless. Learn More. Pathway to Settlement.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.infotrack.com.au/industries/legal-conveyancing/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECGIQAg&amp;usg=AOvVaw30E8uPeR7-hposjUOkY2K_" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECGIQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Legal &amp; Conveyancing - InfoTrack</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.infotrack.com.au &#8250; Industries</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Legal and conveyancing products to help you work smarter. Conduct property, personal and corporate searches including title searches, property certificates, ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.actionstep.com/practice-areas/real-estate/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEwQAg&amp;usg=AOvVaw10xBq6UdE_BJp-lIcR639J" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEwQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing/Real Estate - Legal Practice Management Software</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.actionstep.com &#8250; practice-areas &#8250; real-estate</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Conveyancing &amp; Real Estate Law Software. Actionstep's practice management software keeps Real Estate &amp; Conveyancing lawyers a step ahead. Streamline Your ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.intouch.cloud/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEoQAg&amp;usg=AOvVaw1tguQkzGs3wtBGrEajeei0" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEoQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software, Case Management Software - InTouch</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.intouch.cloud</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">InTouch is a conveyancing software and case management solution, which is easy to use and seamlessly automates administrative tasks by pre-populating data ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://globalx.com.au/software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECGEQAg&amp;usg=AOvVaw1rKx63go6syLlneZxbQIRY" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECGEQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Software I Dye &amp; Durham - Formerly GlobalX</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">globalx.com.au &#8250; software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Conveyancing Management. Matter Centre is the only workflow that offers property lawyers and conveyancers integrated PEXA settlements alongside superior next ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.leap.com.au/area-of-law/conveyancing/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFkQAg&amp;usg=AOvVaw36-XPWCPn7vYC0QvuSJvzw" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFkQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Practice Productivity Solutions for Conveyancers</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.leap.com.au &#8250; area-of-law &#8250; conveyancing</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Conveyancing Automate your e-conveyancing with integrated searching &amp; settlement. ... All guides and precedents are drafted by lawyers with extensive experience ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.hoowla.com/conveyancing-software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFYQAg&amp;usg=AOvVaw3Jta_usADyn6zTrK7at6Yp" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFYQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software - Hoowla</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.hoowla.com &#8250; conveyancing-software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Hoowla is a comprehensive conveyancing software solution that streamlines and simplifies the complex process of property conveyancing.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=http://www.easyconvey.com/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECF8QAg&amp;usg=AOvVaw1HxOt-pbIA3Bs9lTnbaYYA" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECF8QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Easy Convey: The Ultimate in Conveyancing Software</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.easyconvey.com</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Conveyancing is filled with complex and time-consuming tasks. easy convey is the only property software solely designed specifically to streamline and ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://dyedurham.com.au/solution/conveyancing-manager/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECF4QAg&amp;usg=AOvVaw1kcSwctpkWSy8bZra8EBYZ" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECF4QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">CONVEYANCING MANAGER - Dye &amp; Durham</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">dyedurham.com.au &#8250; solution &#8250; conveyancing-manager</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">A UNIQUE, DIARY-BASED WORKFLOW SOLUTION. Conveyancing Manager, helps users build efficiencies and scalability into their conveyancing and legal practitioner ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.globalx.co/software/matter-centre/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECF0QAg&amp;usg=AOvVaw3gttbAp9C8DIqPWgRx97tg" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECF0QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Matter Centre | Conveyancing Software - GlobalX</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.globalx.co &#8250; software &#8250; matter-centre</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Save time &amp; eliminate delays. Matter Centre reduces the administrative burden that comes with conveyancing. With integrated search ordering and delivery, auto- ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.pexa.com.au/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECGAQAg&amp;usg=AOvVaw0hk_5qzR5i0GAWPREWIOEH" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECGAQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">PEXA: Online Property Settlement &amp; Actionable Insights</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.pexa.com.au</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Property Solutions &amp; Actionable Insights. World-first initiatives. Invaluable insights. Property Unlocked. Solutions for. Lawyers &amp; ConveyancersProperty ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://aicsa.com.au/aicsa-partners/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFwQAg&amp;usg=AOvVaw1V89IQuQcnI-HmJpCa240b" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFwQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">AICSA Partners</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">aicsa.com.au &#8250; aicsa-partners</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Realtime Conveyancer is breakthrough transaction management software. It is the first end-to-end conveyancing platform in Australia, featuring seamless ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://globalx.com.au/software/matter-centre/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFsQAg&amp;usg=AOvVaw2jrKIi6C2AeT1ddScKU4E2" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFsQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Matter Centre I Dye &amp; Durham - Formerly GlobalX</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">globalx.com.au &#8250; software &#8250; matter-centre</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Thousands of property lawyers and conveyancers each day trust Matter Centre as their conveyancing workflow solution. ... This conveyancing software delivers ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.trisearch.com.au/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFcQAg&amp;usg=AOvVaw0ZSpj04qW37z-DGbVdYiQE" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFcQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">triSearch: Home page</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.trisearch.com.au</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">... Software. triSearch Platform. Electronic Conveyancing. One software that does it all. triConvey is a practice management software built for conveyancers. The ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.aicvic.com.au/what-to-look-for-when-choosing-a-practice-management-system/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFoQAg&amp;usg=AOvVaw1oNwhTDqECnbjw2DU5tM_a" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFoQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">What to look for when choosing a practice management system</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.aicvic.com.au &#8250; Blog</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">No two conveyancing businesses are the same, so it's important to select a practice management software system which can be customised. While the overall flow ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.leapconveyancer.com.au/features/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFgQAg&amp;usg=AOvVaw1WFI1Qf8ximkavErIFHsqT" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFgQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Productivity Boosting Features - LEAP Conveyancer</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.leapconveyancer.com.au &#8250; features</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Practice Management Software for Conveyancers. The smartest conveyancing software that will manage your matters and automate tasks. Australia's most widely ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.intouch.cloud/conveyancing-jurisdictions/australia&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECD8QAg&amp;usg=AOvVaw3xtHlFr2UbSDuT66fhDSoj" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECD8QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software for Australia | InTouch Case Management</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.intouch.cloud &#8250; conveyancing-jurisdictions &#8250; australia</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div class="v9i61e"><div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">Rating</span> <span class="r0bn4c rQMQod tP9Zud"><span> </span>
+<span aria-hidden="true" class="oqSTJd">4.6</span>
+<span> </span>
+<div class="Hk2yDb KsR1A" aria-label="Rated4.5out of5" role="img"><span style="width:63px"></span></div>
+<span> </span>
+<span>(36)</span>
+<span> </span></span></div></div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">What is InTouch? InTouch is a conveyancing software and case management solution designed to automate and streamline the administrative tasks involved in ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://realtimeconveyancer.com.au/about-us/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDwQAg&amp;usg=AOvVaw0Td09pFmX9M798xB6ansRS" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDwQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">About Us &#8211; Realtime Conveyancer &#8211; Australia's Leading Digital ...</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">realtimeconveyancer.com.au &#8250; about-us</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Realtime Conveyancer Australia ('Realtime' the business) is proud to introduce our product Realtime Conveyancer transaction management software (TMS). Sign up ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.leap.com.au/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFUQAg&amp;usg=AOvVaw2pOtr2OXxViSqXuA3Ur3KA" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFUQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">LEAP Legal Software: Legal Practice Management Software</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.leap.com.au</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">LEAP is the leading cloud-based Legal Practice Management Software for law firms and conveyancers in Australia. Everything you need to run a law firm.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://altconvey.com.au/areas-of-conveyancing/technology/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFQQAg&amp;usg=AOvVaw2g_iOL6GrqM_tm84driAgi" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFQQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Specialised Conveyancing Software | Experienced Property Solicitors</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">altconvey.com.au &#8250; areas-of-conveyancing &#8250; technology</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Alternative Conveyancing Experts using specialised conveyancing software "LEAP", is utilised as a business management tool.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.smokeball.com.au/practice-area/conveyancing-business-law-software&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFMQAg&amp;usg=AOvVaw0tbfWtN3lRcTLqGk0YCgTu" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFMQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Best Conveyancing Business Law Software - Smokeball Australia</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.smokeball.com.au &#8250; practice-area &#8250; conveyancing-business-law-softw...</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Looking for efficient conveyancing business law software? Explore Smokeball's comprehensive solutions for streamlined legal operations.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.leapsoftware.ie/area-of-law/conveyancing-software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFIQAg&amp;usg=AOvVaw0PNAjXJe61WwlaLJpudp6E" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFIQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software | LEAP Legal Software</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.leapsoftware.ie &#8250; area-of-law &#8250; conveyancing-software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">LEAP develops practice management software that provides everything you need to complete a conveyancing matter. With integrated, up-to-date and fully automated ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://settleeasy.com.au/settle-easy-announces-partnership-with-mri-software-to-drive-australias-fastest-growing-online-conveyancing-business/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFAQAg&amp;usg=AOvVaw1l9KahDzcMcY8d3gfKz7Q9" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFAQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Settle Easy partners with MRI Software | Online Conveyancers</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">settleeasy.com.au &#8250; settle-easy-announces-partnership-with-mri-software-to...</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">12 Apr 2023</span>
+<span class="r0bn4c rQMQod"> · </span>Settle Easy partners with MRI Software to drive Australia's fastest-growing online conveyancing business ·, a global property technology leader ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.octopuspro.com/field-service-management/property-conveyancing-business-software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFEQAg&amp;usg=AOvVaw3j85D3GvsStV3tN2XTDeXh" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECFEQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Property Conveyancing Service Management Software For Agents</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.octopuspro.com &#8250; field service management</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Conveyancing Practice Management Software - Simple, Easy-to-use Software for your Conveyancing Business. Accept bookings on the go and manage your real ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.lumosemarketplace.com/blog-post/conveyancing-software-for-real-estate-lawyers&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECE8QAg&amp;usg=AOvVaw0D6pQkEKWug948t9f9PCZg" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECE8QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Blog Post | Conveyancing Software for Real-estate Lawyers</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.lumosemarketplace.com &#8250; blog-post &#8250; conveyancing-software-for-rea...</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">4 Feb 2023</span>
+<span class="r0bn4c rQMQod"> · </span>They offer two seperate softwares, their main software is RealtiWeb, a conveyancing application which allows lawyers to complete a real estate ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://askveya.com/conveyancing-software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEsQAg&amp;usg=AOvVaw1PsRmXh0OHf1Z8pMzcQ7Uk" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEsQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing software - Veya</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">askveya.com &#8250; conveyancing-software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Title Register Analysis And Risk Score Software For Conveyancing Firms · Instantly identify red flags and reduce risk in property transactions · The software ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.aicvic.com.au/victorian-firm-kyleah-conveyancing-uses-software-to-launch-completely-paperless/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECE0QAg&amp;usg=AOvVaw3AGHtZmRdEWvXdk8FBjJdQ" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECE0QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Victorian firm Kyleah Conveyancing uses Software to launch ...</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.aicvic.com.au &#8250; Blog</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">A Paperless Business Solution. One strategy Lana uses to help build this reputation, is to provide a solution available to all homebuyers and sellers, no matter ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.theaccessgroup.com/en-gb/legal/software/case-management/conveyancing/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECE4QAg&amp;usg=AOvVaw0iFyy2J6NWFjMUEanyC1DJ" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECE4QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Case Management Software - The Access Group</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.theaccessgroup.com &#8250; en-gb &#8250; legal &#8250; software &#8250; conveyancing</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div class="v9i61e"><div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">Rating</span> <span class="r0bn4c rQMQod tP9Zud"><span> </span>
+<span aria-hidden="true" class="oqSTJd">4.2</span>
+<span> </span>
+<div class="Hk2yDb KsR1A" aria-label="Rated4.0out of5" role="img"><span style="width:56px"></span></div>
+<span> </span>
+<span>(2,302)</span>
+<span> </span></span></div></div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Offering seamless integrations with over 100 third parties - including the Land Registry portal and search providers such as Index PI and TM Convey &#8211; our ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.facebook.com/CATSConveyancing/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEkQAg&amp;usg=AOvVaw0aGMNutk-nSDLnos9JTxSR" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEkQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">CATS Conveyancing Software - Facebook</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.facebook.com &#8250; ... &#8250; Software &#8250; CATS Conveyancing Software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div class="v9i61e"><div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">Rating</span> <span class="r0bn4c rQMQod tP9Zud"><span> </span>
+<span aria-hidden="true" class="oqSTJd">5.0</span>
+<span> </span>
+<div class="Hk2yDb KsR1A" aria-label="Rated5.0out of5" role="img"><span style="width:70px"></span></div>
+<span> </span>
+<span>(1)</span>
+<span> </span></span></div></div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">CATS Conveyancing Software, Adelaide, South Australia. 97 likes. CATS Conveyancing Software is a full functioned conveyancing software package designed...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.hoowla.com/conveyancing-software-providers/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEgQAg&amp;usg=AOvVaw3gBafVVOki3Z_xEssrymHQ" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEgQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software Providers &amp; Information</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.hoowla.com &#8250; conveyancing-software-providers</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Leap Legal Software, crafted as Conveyancing Software, caters to the needs of small to medium-sized law firms. It presents many capabilities encompassing case ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://dyedurham.com.au/solution/cats/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEcQAg&amp;usg=AOvVaw0XDwwUHO4OUZo9pfSdQ6r5" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEcQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">CATS - Dye &amp; Durham</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">dyedurham.com.au &#8250; solution &#8250; cats</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">CONVEYANCING &amp; TRUST ACCOUNT SYSTEM FOR SOUTH AUSTRALIA. A complete Practice Management System written by conveyancers for conveyancers. BENEFITS OF USING ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.resolveconveyancing.com/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEYQAg&amp;usg=AOvVaw1kSerqtGasfs3N4GHiEk_i" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEYQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Resolve&#8482; | Simple Residential Conveyancing</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.resolveconveyancing.com</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">A Residential Conveyance App Built for Legal Professionals · Tailored to the Unique Needs of Alberta Conveyancers · User-Friendly Software · Real Estate Software ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.lawyerconveyance.ca/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEUQAg&amp;usg=AOvVaw37GA9edZyiogt70aWrxbO7" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEUQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Real Estate Conveyancing Software Trusted by Lawyers</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.lawyerconveyance.ca</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">A trusted and efficient conveyancing software system for lawyers in Ontario. Built by Lawyers - Perfected by Law Clerks.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.clio.com/uk/practice-areas/conveyancing-software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEMQAg&amp;usg=AOvVaw2WW42gHvWTeH9i2BPAb6cu" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEMQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software | Clio UK</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.clio.com &#8250; Clio &#8250; Practice Areas</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Clio's conveyancing practice management software allows both traditional and online conveyancing solicitors to do more in less time. With Clio Grow, client ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.infotrack.co.uk/solutions/conveyancing/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEIQAg&amp;usg=AOvVaw3qjGv2eiRXBrLb6uLGWlnn" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEIQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Award-winning legal &amp; conveyancing software &amp; solutions from ...</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.infotrack.co.uk &#8250; solutions &#8250; conveyancing</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">InfoTrack empowers law firms to complete their conveyancing process digitally, end-to-end. Our award-winning legal technology is helping the industry to step ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.conveyancesoft.com.au/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEQQAg&amp;usg=AOvVaw0hhl62YrCqi8NAXJAj05J3" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEQQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software For Property Conveyancing | ConveyanceSoft</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.conveyancesoft.com.au</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">ConveyanceSoft makes it easy to track conveyancing sales and purchases, contract information, adjustments, dramatically increasing your staff productivity and ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.oneadvanced.com/solutions/alb-conveyancing/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEEQAg&amp;usg=AOvVaw0VbIi0xN6cWYke1Oo-GbtB" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEEQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">ALB Conveyancing Software for Law Firms - OneAdvanced</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.oneadvanced.com &#8250; Cloud Software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">3 Dec 2019</span>
+<span class="r0bn4c rQMQod"> · </span>ALB allows you to build your processes in an automated way. It mandates steps, captures data and ensures your firm's processes are strictly ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.linkedin.com/posts/realtime-conveyancer_realtimeconveyancer-nlconveyancers-proptech-activity-7117389059651473408-NKg7&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEAQAg&amp;usg=AOvVaw11ZhcCFiLw1WjkOYWOhUOJ" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECEAQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Realtime Conveyancer posted on the topic | LinkedIn</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.linkedin.com &#8250; posts &#8250; realtime-conveyancer_realtimeconveyancer-nl...</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">9 Oct 2023</span>
+<span class="r0bn4c rQMQod"> · </span>The thought of switching conveyancing software can seem overwhelming. Even once you've made the decision to switch, you might still find ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.facebook.com/intouchmatters/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECD4QAg&amp;usg=AOvVaw112NMmx-crdvpO8p-1bT2K" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECD4QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">InTouch Conveyancing Software - Facebook</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.facebook.com &#8250; ... &#8250; InTouch Conveyancing Software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">The InTouch portal makes it easy for you to keep stakeholders up to date on the progress of their matters, and enables you to show different milestone updates ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.facebook.com/SmokeballAU/videos/smokeball-conveyancing-software/777418939085316/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQtwJ6BAgCEAE&amp;usg=AOvVaw2C_TKvFFXzMA0NDwo503vo" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQtwJ6BAgCEAE"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Smokeball conveyancing software | Over the past 11 months almost ...</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.facebook.com &#8250; ... &#8250; Smokeball Australia &#8250; Videos</div></div></div></a></div>
+<div class="kCrYT"><a href="/url?q=https://www.facebook.com/SmokeballAU/videos/smokeball-conveyancing-software/777418939085316/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQuAJ6BAgCEAI&amp;usg=AOvVaw2rROl5Q2-3sY7d0zvpgDCh" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQuAJ6BAgCEAI"><div class="lcJF1d Q6Xouf G6SP0b eeoFaf"><div style="width:120px;height:67px;position:static"><img class="h1hFNe" alt="Video for conveyancing software" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="width:120px;height:67px" id="dimg_5" data-deferred="1"></div>
+<div class="S9HcI oz9fhd"></div>
+<div class="S9HcI UhWgBb" style="background-size:36px"></div></div></a>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">20 June 2017</span>
+<span class="r0bn4c rQMQod"> · </span>More videos you may like · In our latest video instalment of the #Smokeball... · Curious about ...<br>Duration: <span class="r0bn4c rQMQod">2:58</span>
+<br>Posted: <span class="r0bn4c rQMQod">20 June 2017</span></div></div></div></div></div>
+<div class="rl7ilb"></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.softwareadvice.com.au/directory/3006/law-practice-management/software&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECD0QAg&amp;usg=AOvVaw1E3IRLgDfCaIJHB4vUnW0W" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECD0QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Best Legal Practice Management Software</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.softwareadvice.com.au &#8250; directory &#8250; software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Lexzur is a comprehensive Suite of Law Practice Management Software and contract Lifecycle Management Software available for Legal teams of any size in both ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://aicnational.com.au/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDsQAg&amp;usg=AOvVaw1v73UB2aVGQzZnX8-Cnzcl" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDsQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Home | Australian Institute of Conveyancers National</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">aicnational.com.au</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">... Software Providers, other property related professionals and government bodies, and the public. About Us. Our Vision. To develop, represent, maintain and ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.lawsupport.com.au/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDkQAg&amp;usg=AOvVaw0q7IobymfT_PFEh3JSOpOH" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDkQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">legal practice software | Law Support</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.lawsupport.com.au</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">... questions sheets. Family law Software. Conveyancing software. Conveyance area &amp; settlement. Water calc &amp; settlements area. Criminal law software. Succession law ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.sympli.com.au/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDgQAg&amp;usg=AOvVaw1AYv_ceS5YaCdLrYf6dB1V" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDgQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Sympli: Making e-Settlements Simple</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.sympli.com.au</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">An interoperable future for e-conveyancing. Discover the benefits for lawyers, conveyancers and financial institutions. Click through to review industry ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://arunkasico.com/conveyancing-software-elm/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDoQAg&amp;usg=AOvVaw1RZyNI46FvyjOTtnXWDIZA" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDoQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software (ELM) - Arun Kasi</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">arunkasico.com &#8250; conveyancing-software-elm</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">ELM Conveyancing Software - Malaysia.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.lexisnexis.co.za/lexisconvey&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDcQAg&amp;usg=AOvVaw0ckHwBsc6o4fU3YjWSRxmr" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDcQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software - Lexis® Convey</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.lexisnexis.co.za &#8250; lexisconvey</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Used not only to produce attorney documents for the property transfer process, Lexis Convey also enables users to create and manage conveyancing matters, ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://docflite.com/conveyancing-software-uk&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDYQAg&amp;usg=AOvVaw3HTfLtnZjcXlEkeFkwVtht" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDYQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software UK - DocFlite Powered by QuoteOnSite</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">docflite.com &#8250; Blog</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">5 Oct 2023</span>
+<span class="r0bn4c rQMQod"> · </span>Conveyancing Software UK - a swift guide on improving property transactions.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.insightlegal.co.uk/solicitors-software/enterprise/workflow/conveyancing/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDUQAg&amp;usg=AOvVaw2OQ3IzjSRV5NTgYKSbq3Du" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDUQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.insightlegal.co.uk &#8250; Software &#8250; Enterprise &#8250; Workflow</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Insight Legal is an award-winning software solution, supported by a dedicated team of people on hand to work alongside you to plan a bespoke transition ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://conveyit.co.nz/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDMQAg&amp;usg=AOvVaw2AifXEPHLgXDTd4ZXIxJlb" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDMQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">conveyIT | Cloud Conveyancing Software</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">conveyit.co.nz</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">It's the cloud based conveyancing software that's got everyone talking. Conveyit Maestro is an automated cloud conveyancing system designed by New Zealand ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://quintalink.ca/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDQQAg&amp;usg=AOvVaw01Efx9nJeyDDJvkbVlvC7Z" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDQQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">QUINTALINK - Conveyancing Software for Real Estate Lawyers</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">quintalink.ca</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Client and files database is owned by you and is retrievable upon request. Illustration. Custom-Tailored Approach. QUINTALINK was born as the result of the ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://ospreyapproach.com/practice-areas/conveyancing-legal-software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDIQAg&amp;usg=AOvVaw2UkhdE0inMuCnLQUIJgQev" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDIQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Client &amp; Case Management Software</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">ospreyapproach.com &#8250; Practice Areas</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Our conveyancing case management software system is designed to automate manual processes, reduce compliance errors, and help UK law firms deliver ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.clio.com/au/practice-areas/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDEQAg&amp;usg=AOvVaw1VZSZxZKc9nw2k_PKibDM9" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDEQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Practice Areas - Clio Australia</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.clio.com &#8250; practice-areas</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Clio&#8212;the fresh and flexible legal software solution for any Australian law firm · Bankruptcy &amp; Insolvency · Competition &amp; Consumer · Conveyancing · Commercial &amp; ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.denovobi.com/practice-areas/conveyancing-software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDAQAg&amp;usg=AOvVaw1t07HOYMlStY7_RWKKT_O9" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECDAQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Case Management Software for Conveyancing Lawyers - Denovo</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.denovobi.com &#8250; Legal Software for Practice Areas</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Denovo makes running your law firm easier. We're that smart, fully customisable, whole practice management legal software platform that you've been hearing ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.unissu.com/proptech-company/intouch-conveyancing-software&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECC8QAg&amp;usg=AOvVaw2zTUHEFliHfu0vgzk6Nuyt" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECC8QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">InTouch Conveyancing Software; An Independent Overview - Unissu</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.unissu.com &#8250; proptech-company &#8250; intouch-conveyancing-software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">InTouch Conveyancing Software. PropTech | Founded 2013 | Based in United Kingdom. Ensuring property transactions are transparent. SaaSWork Flow Management.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.ldd.ca/real-estate&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECC4QAg&amp;usg=AOvVaw0J_PHKKE6kMg2XCyHjTIvC" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECC4QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Real Estate Conveyancing Software - LawyerDoneDeal</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.ldd.ca &#8250; real-estate</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">The best alternative for real estate conveyancing. For legal professionals across Canada. Handle your conveyancing files with RealtiWeb in Ontario, Alberta, ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=http://settsplus.com.au/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECC0QAg&amp;usg=AOvVaw0BcSpHOcJ48TnVPXYMGGiF" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECC0QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">SettsPlus</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">settsplus.com.au</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">SettsPlus is the industry standard Settlement software package for Conveyancers in Western Australia. SettsPlus is a tool for Conveyancers and Solicitors to ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.konekta.com.au/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCwQAg&amp;usg=AOvVaw2zVp73S_UPhzDvh_Y2c3I6" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCwQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Konekta - Home</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.konekta.com.au</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Smart integrated connections for legal business systems - do more with less. Konekta is a middleware platform that connects third party legal software.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://spinelegal.co.uk/conveyancing-software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCoQAg&amp;usg=AOvVaw2oaajPzV_LUG5sJNL2WwSt" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCoQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software | SpineLegal</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">spinelegal.co.uk &#8250; conveyancing-software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Conveyancing software is a legal automation software designed to simplify and streamline the process of transferring property ownership from one party to ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.trustradius.com/products/intouch-conveyancing-software/competitors&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCsQAg&amp;usg=AOvVaw12DUcDfQWd86BAfN-iXTlz" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCsQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">List of Best InTouch Conveyancing Software Alternatives ...</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.trustradius.com &#8250; ... &#8250; InTouch Conveyancing Software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Learn about the best InTouch Conveyancing Software alternatives for your Legal Case Management software needs. Read user reviews of eIMMIGRATION by Cerenade ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.linkedin.com/company/intouch-conveyancing-software&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCkQAg&amp;usg=AOvVaw1ZZC18PzJh24r1jx-dAihi" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCkQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">InTouch Conveyancing Software | LinkedIn</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.linkedin.com &#8250; company &#8250; intouch-conveyancing-software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">InTouch Conveyancing Software | 951 followers on LinkedIn. Designed to be the most transparent case management software for the forward thinking conveyancer ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://conveyit.co.nz/home/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCYQAg&amp;usg=AOvVaw1ULFMiP5PtZlO-Qn2Zwawi" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCYQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Cloud Conveyancing Software - conveyIT</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">conveyit.co.nz &#8250; ...</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">It's the cloud based conveyancing software that's got everyone talking. Conveyit is an automated cloud conveyancing system designed by New Zealand Lawyers ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.instagram.com/realtimeconveyancer/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCQQAg&amp;usg=AOvVaw2kNSKIE6MwKBX3N1eNeJb6" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCQQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">SaaS conveyancing software for innovative settlement agents</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.instagram.com &#8250; realtimeconveyancer</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">173 Followers, 156 Following, 204 Posts - See Instagram photos and videos from SaaS conveyancing software for innovative settlement agents ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.quill.co.uk/legal-software/conveyancing-software-for-uk-law-firms/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCUQAg&amp;usg=AOvVaw19EurkuEB8s1-8wGjk88A_" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCUQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software for UK Law Firms - Quill</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.quill.co.uk &#8250; Legal Software For UK Law Firms</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Why choose Quill for your conveyancing practice? From opening new conveyancing matters and sending out client care letters to filling in completion statements ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://redbricksolutions.co.uk/what-we-do/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCMQAg&amp;usg=AOvVaw1ofhexyVehUQRkrlHvxryF" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCMQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Case Management - Redbrick Solutions</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">redbricksolutions.co.uk &#8250; what-we-do</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">The complete conveyancing case management software provider. Redbrick is the innovative software of choice for over 3000 legal professionals.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://conveyancing.com.au/terms-use&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCIQAg&amp;usg=AOvVaw2Gz_-T_yUp3EmQxE3kjZW1" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCIQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Terms of Use - Conveyancing.com.au</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">conveyancing.com.au &#8250; terms-use</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">use any device, software or other instrumentality to interfere or attempt to interfere with the proper working of our websites and mobile apps, and that you ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://todaysconveyancer.co.uk/conveyancing-lawyers-need-case-management-software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCEQAg&amp;usg=AOvVaw1iJpOyau21mVsM7IpNYDEa" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCEQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Why Conveyancing Lawyers Need Case Management Software</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">todaysconveyancer.co.uk &#8250; conveyancing-lawyers-need-case-management-...</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">25 July 2023</span>
+<span class="r0bn4c rQMQod"> · </span>Case Management Software is necessary for Conveyancers to manage their workflow, simplify their processes, and still provide their clients with ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad xpd EtOod pkphOe"><div class="kCrYT"><span class="cAuxJf"><div class="BNeawe deIvCb AP7Wnd"><span class="BNeawe"><a href="https://www.google.com.au/search?num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;ei=O1o5ZsGiKqGgnesPv4uciAE&amp;q=conveyancing+software&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQsAR6BAhlEAE" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQsAR6BAhlEAE"><span class="deIvCb AP7Wnd"><span class="FCUp0c rQMQod">Images</span></span></a></span></div></span>
+<div class="BNeawe tAd8D AP7Wnd"><span class="BNeawe"><a href="https://www.google.com.au/search?num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;ei=O1o5ZsGiKqGgnesPv4uciAE&amp;q=conveyancing+software&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ7Al6BAhlEAI" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ7Al6BAhlEAI"><span class="tAd8D AP7Wnd"><span class="rQMQod Xb5VRe">View all</span></span></a></span></div></div>
+<div>
+<div>
+<div>
+<div class="Xdlr0d"><div class="idg8be"><a class="BVG0Nb OxTOff" href="https://www.google.com.au/imgres?imgurl=https://assets-global.website-files.com/5f9d6e2343de7e97532eff4d/603493ab692d532aee5e7f31_sb-laptop-iphone_orig.png&amp;imgrefurl=https://www.smokeball.com.au/practice-area/conveyancing-software&amp;h=706&amp;w=1100&amp;tbnid=WpkE4CShbsIVGM&amp;q=conveyancing+software&amp;tbnh=96&amp;tbnw=150&amp;usg=AI4_-kRk0LMff0kVSK2iVYJpc7IaWkFEZg&amp;vet=1&amp;docid=9MfJojSVxUvNuM&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ9QF6BAhlEAQ" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ9QF6BAhlEAQ"><div>
+<img class="WddBJd" style="max-width:none;height:128px;max-height:128px" alt="Best Conveyancing Law Firm Software - Smokeball" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" id="dimg_19" data-deferred="1"></div></a>
+<a class="BVG0Nb OxTOff" href="https://www.google.com.au/imgres?imgurl=https://www.trisearch.com.au/wp-content/uploads/2022/12/triConvey-bells-and-whistles-1024x574.jpg&amp;imgrefurl=https://www.trisearch.com.au/start-2022-with-free-conveyancing-software/&amp;h=574&amp;w=1024&amp;tbnid=xGbqfSHXhMCKDM&amp;q=conveyancing+software&amp;tbnh=84&amp;tbnw=150&amp;usg=AI4_-kSQpbmWtQmMEdz1Fy3xAiU8H-Wbxw&amp;vet=1&amp;docid=GLSDHMFPEW9KiM&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ9QF6BAhlEAY" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ9QF6BAhlEAY"><div>
+<img class="WddBJd" style="max-width:none;height:128px;max-height:128px" alt="Start 2022 with a Powerful, Free Conveyancing Software - triSearch" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" id="dimg_21" data-deferred="1"></div></a>
+<a class="BVG0Nb OxTOff" href="https://www.google.com.au/imgres?imgurl=https://www.leapconveyancer.com.au/_nuxt/img/aol-conveyancing-05.6aeced2.png&amp;imgrefurl=https://www.leapconveyancer.com.au/&amp;h=809&amp;w=1131&amp;tbnid=Fg3ytfpGsIOvfM&amp;q=conveyancing+software&amp;tbnh=107&amp;tbnw=150&amp;usg=AI4_-kQWdIZQiGtv4kQR9GpbGm23Q21W-w&amp;vet=1&amp;docid=WXIU_taKZkH8RM&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ9QF6BAhlEAg" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ9QF6BAhlEAg"><div>
+<img class="WddBJd" style="max-width:none;height:128px;max-height:128px" alt="Conveyancing Practice Management Software | LEAP Conveyancer" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" id="dimg_23" data-deferred="1"></div></a>
+<a class="BVG0Nb OxTOff" href="https://www.google.com.au/imgres?imgurl=https://assets-global.website-files.com/5f9d6e2343de7e97532eff4d/603494e3fc2bea1b2646c544_conveyancing-matter-screen_orig.png&amp;imgrefurl=https://www.smokeball.com.au/practice-area/conveyancing-software&amp;h=836&amp;w=1045&amp;tbnid=P0fLpMbqv5-MlM&amp;q=conveyancing+software&amp;tbnh=120&amp;tbnw=150&amp;usg=AI4_-kSUiRQGMMM2sigzuED36dCaT9UKzw&amp;vet=1&amp;docid=9MfJojSVxUvNuM&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ9QF6BAhlEAo" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ9QF6BAhlEAo"><div>
+<img class="WddBJd" style="max-width:none;height:128px;max-height:128px" alt="Best Conveyancing Law Firm Software - Smokeball" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" id="dimg_25" data-deferred="1"></div></a>
+<a class="BVG0Nb OxTOff" href="https://www.google.com.au/imgres?imgurl=https://www.conveyancesoft.com.au/wp-content/uploads/2020/05/vedioimg2.png&amp;imgrefurl=https://www.conveyancesoft.com.au/&amp;h=664&amp;w=1072&amp;tbnid=5rxLPddb4kGZmM&amp;q=conveyancing+software&amp;tbnh=93&amp;tbnw=150&amp;usg=AI4_-kRaEiqUR1NmxedBn0s71IVtjewqzQ&amp;vet=1&amp;docid=hFd700wpNSCHjM&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ9QF6BAhlEAw" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ9QF6BAhlEAw"><div>
+<img class="WddBJd" style="max-width:none;height:128px;max-height:128px" alt="Conveyancing Software For Property Conveyancing | ConveyanceSoft" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" id="dimg_27" data-deferred="1"></div></a>
+<a class="BVG0Nb OxTOff" href="https://www.google.com.au/imgres?imgurl=https://globalx.com.au/wp-content/uploads/images/software/mc-dashboard.png&amp;imgrefurl=https://globalx.com.au/software/&amp;h=680&amp;w=1050&amp;tbnid=PxGZBx9Owop60M&amp;q=conveyancing+software&amp;tbnh=97&amp;tbnw=150&amp;usg=AI4_-kS_qT-fpGVohPlmZxDHny03NOb8Ow&amp;vet=1&amp;docid=FxoL5xc4aPpiPM&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ9QF6BAhlEA4" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ9QF6BAhlEA4"><div>
+<img class="WddBJd" style="max-width:none;height:128px;max-height:128px" alt="Software I Dye &amp; Durham - Formerly GlobalX" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" id="dimg_29" data-deferred="1"></div></a>
+<div class="mHhylf"><div class="WZ5GJf"><a class="qN9Ked" href="https://www.google.com.au/search?num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;ei=O1o5ZsGiKqGgnesPv4uciAE&amp;q=conveyancing+software&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ7Al6BAhlEA8" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ7Al6BAhlEA8"><button class="DXk5Me Qi9Fd" tabindex="-1"><span class="hWHuJ"><img class="Dk7jOe" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:24px;max-height:24px" id="dimg_31" data-deferred="1"></span></button>
+<div class="BNeawe ji5jpf tAd8D AP7Wnd">View all</div></a></div></div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://goveyance.com/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECB4QAg&amp;usg=AOvVaw033enKj3bnu6Alwosuex5v" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECB4QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Let's reimagine conveyancing together</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">goveyance.com</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">The sales and support teams guided us through the process of onboarding GoVeyance and made sure we were 100% satisfied with the software. We also appreciate ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.clickconveyancing.com.au/about/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCAQAg&amp;usg=AOvVaw3wkSLeiW2nDMDwbCuh3Rpl" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECCAQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">About us - Click Conveyancing</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.clickconveyancing.com.au &#8250; about</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">... software we are able to deliver a prompt and fuss ... Our solicitors and conveyancers ... The processes used by our dedicated conveyancing solicitors and paralegals ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.rmit.edu.au/study-with-us/levels-of-study/vocational-study/advanced-diplomas/advanced-diploma-of-conveyancing-c6170&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECB0QAg&amp;usg=AOvVaw2LnPmTHybPLFh3Xij3yeOA" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECB0QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Advanced Diploma of Conveyancing - BSB60220 - RMIT University</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.rmit.edu.au &#8250; study-with-us &#8250; levels-of-study &#8250; vocational-study &#8250; ad...</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Electives and course plan · conveyancing and property law concepts and transactions · electronic Submission of transfers via PEXA (industry-specific Software) ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.nationalsolicitors.com/conveyancing-software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBwQAg&amp;usg=AOvVaw0Ny-fjw3dS0iBbJniGZTc_" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBwQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software - National Solicitors</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.nationalsolicitors.com &#8250; conveyancing-software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Conveyancing Software for Solicitors. We offer a Free Case Management Software package for Conveyancing law firms to share in our success.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.silq.com.au/areas-of-law/conveyancing/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBsQAg&amp;usg=AOvVaw2TpDxadPVtlt8Yic1EQzYr" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBsQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing - SILQ</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.silq.com.au &#8250; areas-of-law &#8250; conveyancing</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Conveyancing Law. SILQ understands that ... SILQ contains all the court forms that a conveyancer needs to manage a property or conveyancing ... Software. SILQ's ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.saiglobal.com/en-au/business_process_outsourcing/legal_services/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBoQAg&amp;usg=AOvVaw0UsesodqmQNXzb2vH3Z-J6" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBoQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Legal Services - SAI Global</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.saiglobal.com &#8250; en-au &#8250; business_process_outsourcing &#8250; legal_services</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">SAI Global Property provides legal practitioners with all the necessary software ... Conveyancing workflow tool. Our Conveyancing ... Our Settlement Room software ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.lawgazette.co.uk/legal-services/intouch-conveyancing-software/833.supplier&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBkQAg&amp;usg=AOvVaw2n4o8_KEy1oeZyHJg8bmEt" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBkQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">InTouch Conveyancing Software | Legal services | Law Gazette</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.lawgazette.co.uk &#8250; intouch-conveyancing-software &#8250; 833.supplier</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">InTouch is a complete conveyancing case management solution that embraces the power of the cloud and latest technologies to provide an unbeatable software ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://aicnational.com.au/index.php/our-partners/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBgQAg&amp;usg=AOvVaw2pqAJXKr8Y9uIj5T3mE9US" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBgQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Our Partners | Australian Institute of Conveyancers National</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">aicnational.com.au &#8250; index.php &#8250; our-partners</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Smokeball is simple, smart and affordable cloud conveyancing software. From matter management, automated forms and precedents, settlement financials through ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.twentyconvey.co.uk/embracing-conveyancing-software-in-2024&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBcQAg&amp;usg=AOvVaw1xgwaVslhB1G4H1flXarkY" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBcQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Embracing Conveyancing Software in 2024 - TwentyConvey</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.twentyconvey.co.uk &#8250; embracing-conveyancing-software-in-2024</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">What are the biggest problems facing conveyancers? Why are conveyancers reluctant to embrace technology; Types of conveyancing software available; The benefits ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.lawlabs.ca/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBQQAg&amp;usg=AOvVaw3uc-LL8uJVlWKWe29F0sVV" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBQQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Closer by LawLabs</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.lawlabs.ca</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Closer is a new kind of conveyancing software, making conveyancing simple, intuitive, and human. Edit your documents in real time, customize your own ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.lexisnexis-es.co.uk/sectors/conveyancing-and-property-software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBUQAg&amp;usg=AOvVaw306bZkWCWAkWC8DS7PXWt4" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBUQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing and Property Case Management Software</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.lexisnexis-es.co.uk &#8250; Sectors</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Easy to use conveyancing case management software for law firms. Everything you need to complete a conveyancing transaction.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.denim.com.au/Legalsoftware&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBYQAg&amp;usg=AOvVaw1bX1WnjZobrdcNDAbqtFkA" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBYQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Practice Managment Software Comparison</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.denim.com.au &#8250; Legalsoftware</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Choosing and then customising a practice management system is one of the most crucial decisions a firm will make. If properly implemented, it can bring the ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://dribbble.com/shots/22586499-LCS-Lawyers-Conveyancing-Software&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBMQAg&amp;usg=AOvVaw1v2ENTOV7vd0VwpO_xijhk" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBMQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">LCS - Lawyers Conveyancing Software - Dribbble</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">dribbble.com &#8250; shots &#8250; 22586499-LCS-Lawyers-Conveyancing-Software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">18 Sept 2023</span>
+<span class="r0bn4c rQMQod"> · </span>LCS - Lawyers Conveyancing Software designed by Syed Mahbub for Devflow. Connect with them on Dribbble; the global community for designers ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.perfectportal.co.uk/blog/conveyancing-software-and-solutions-for-your-law-firm&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBEQAg&amp;usg=AOvVaw0IF7GicwhsX4237ELGWgeQ" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBEQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Software and Solutions for Your Law Firm</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.perfectportal.co.uk &#8250; blog &#8250; conveyancing-software-and-solutions-fo...</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">8 Feb 2023</span>
+<span class="r0bn4c rQMQod"> · </span>Perfect Portal offers a complete series of day-one legal case management software integration, giving your firm a full-service, end-to-end case ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.theconveyancingnetwork.com/index.cfm/our-services/panel-management-software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBIQAg&amp;usg=AOvVaw2SlK9FmLLZeQ38DwZUCpvx" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBIQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Conveyancing Panel Management Online Cloud based Software | UK</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.theconveyancingnetwork.com &#8250; index.cfm &#8250; our-services &#8250; panel-ma...</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div class="v9i61e"><div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">Rating</span> <span class="r0bn4c rQMQod tP9Zud"><span> </span>
+<span aria-hidden="true" class="oqSTJd">4.3</span>
+<span> </span>
+<div class="Hk2yDb KsR1A" aria-label="Rated4.5out of5" role="img"><span style="width:63px"></span></div>
+<span> </span>
+<span>(96)</span>
+<span> </span></span></div></div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">The Conveyancing Network's online HUB and panel management software, puts you in control of managing your own conveyancing panel helping you improve your own ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.prolegis.ca/prolegis-landing-page-o122/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAoQAg&amp;usg=AOvVaw01WqgH6wQufgcEGEabzVfl" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAoQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Prolegis, Real Estate Conveyancing Software That Works The Way ...</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.prolegis.ca &#8250; prolegis-landing-page-o122</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Prolegis, Real Estate Conveyancing Software That Works The Way You Do. Prolegis is the real estate conveyancing solution built for lawyers by lawyers. It's ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.crunchbase.com/organization/intouch-conveyancing-software&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBAQAg&amp;usg=AOvVaw3dgDapAMYslyPhbkuQADq0" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECBAQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">InTouch Conveyancing Software - Crunchbase</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.crunchbase.com &#8250; organization &#8250; intouch-conveyancing-software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">InTouch Conveyancing Software is a case management solution for property lawyers.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.ipart.nsw.gov.au/sites/default/files/documents/draft-report-electronic-conveyancing-services-in-nsw-august-2019.pdf&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAwQAg&amp;usg=AOvVaw3IPfhHz3q_jZIYK7XY32PM" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAwQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">[PDF] Draft Report - Electronic Conveyancing services in NSW - IPART</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.ipart.nsw.gov.au &#8250; sites &#8250; default &#8250; files &#8250; documents &#8250; draft-rep...</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">1 Aug 2019</span>
+<span class="r0bn4c rQMQod"> · </span>engage with other conveyancing software providers on an equivalent basis.51. Stakeholders also noted that the MORs are broadly consistent ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://keylaw.com.au/locations/victoria/dandenong/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECA0QAg&amp;usg=AOvVaw3Im-uuPsaSlh5b5rSzUuGs" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECA0QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Keylaw | Conveyancing Service Dandenong</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">keylaw.com.au &#8250; Locations &#8250; Victoria</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">26 Oct 2023</span>
+<span class="r0bn4c rQMQod"> · </span>Our custom built conveyancing software has been crafted by our in-house team of developers here in Australia, and is continually improved ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.ochresoft.com/integrated-business-tools/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECA4QAg&amp;usg=AOvVaw0E42TLZgE7U94cEHxDx973" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECA4QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Integrated Business Tools - Intelliworks conveyancing software</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.ochresoft.com &#8250; integrated-business-tools</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Ochresoft's Intelliworks desktop integration makes everyday case management tasks a breeze. It links with many of the main legal partner systems allowing ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://twitter.com/intouchmatters%3Flang%3Den&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAkQAg&amp;usg=AOvVaw3sw-QLyVDgmP6aegY-vfKq" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAkQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">InTouch Conveyancing Software (@intouchmatters) / X</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">twitter.com &#8250; intouchmatters</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">Improve automation, communication and transparency in property transactions. Cloud based case management solution.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.bottrellaccounting.com.au/the-pros-and-cons-of-electronic-conveyancing-software/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAsQAg&amp;usg=AOvVaw3Tpi4KZryTXuWJUlMavH7W" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAsQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">The Pros and Cons of Electronic Conveyancing Software</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.bottrellaccounting.com.au &#8250; the-pros-and-cons-of-electronic-conveya...</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">24 Sept 2018</span>
+<span class="r0bn4c rQMQod"> · </span>Pros and cons of using e-Conveyancing software as compared to manual conveyancing · Automatic Billing · Cheaper and Convenient · Transparency.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://mclconveyancing.com.au/choosing-a-conveyancing-firm/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAYQAg&amp;usg=AOvVaw3enVWo8QkKqAQn-OJsvW7R" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAYQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Choosing a Conveyancing Firm</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">mclconveyancing.com.au &#8250; choosing-a-conveyancing-firm</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">As accredited solicitors, we have access to the required online services to lodge documentation. USUALLY. Many push the new cloud based conveyancing software as ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.reddit.com/r/LawCanada/comments/tml1nq/ontario_real_estate_conveyancing_software_for_mac/&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAQQAg&amp;usg=AOvVaw3eJ0g3FDuvbNyz5spdFU6_" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAQQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">ONTARIO Real Estate Conveyancing Software for Mac : r/LawCanada</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.reddit.com &#8250; LawCanada &#8250; comments &#8250; ontario_real_estate_conveya...</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">24 Mar 2022</span>
+<span class="r0bn4c rQMQod"> · </span>ONTARIO Real Estate Conveyancing Software for Mac. Hey All,. I just wanted to ask if there are any real estate lawyers using a mac full-time? If ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.trustradius.com/products/intouch-conveyancing-software/pricing&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAEQAg&amp;usg=AOvVaw2RL1pm0DR81YRc3Hh1xrWz" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAEQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">InTouch Conveyancing Software Pricing 2024 - TrustRadius</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.trustradius.com &#8250; ... &#8250; InTouch Conveyancing Software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">InTouch conveyancing software is an all-in-one case management solution for property lawyers, from initial quote to completion. The vendor states their mission ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.pagelightprime.com/practice-area/real-estate-law-software&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAAQAg&amp;usg=AOvVaw0KqEIu_SKnN90YTOe0j6rY" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAAQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Real Estate Law Conveyancing Software - PageLightPrime</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.pagelightprime.com &#8250; practice-area &#8250; real-estate-law-software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">PageLightPrime helps law firms to close residential or commercial deals. Assemble bank documents, disclosures and settlement statement of account guided by ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.stuff.co.nz/business/91214170/software-saves-lawyers-time-as-conveyancing-made-more-efficient&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAgQAg&amp;usg=AOvVaw1YpWIISg_8zw9kk7uqZIaa" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAgQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Software saves lawyers' time as conveyancing made more efficient</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.stuff.co.nz &#8250; business &#8250; software-saves-lawyers-time-as-conveyancing...</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd"><span class="r0bn4c rQMQod">4 Apr 2017</span>
+<span class="r0bn4c rQMQod"> · </span>Conveyancing Solutions has announced a partnership with global legal research business LexisNexis, to make its cloud-based conveyancing software ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.lawlab.com.au/partners/case-studies/tucker-real-estate&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAUQAg&amp;usg=AOvVaw2DNm2x_JSEtqKSzt8-DsU5" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAUQAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Making conveyancing simple for clients and agents alike</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.lawlab.com.au &#8250; partners &#8250; case-studies &#8250; tucker-real-estate</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">&#8220;Lawlab keeps everyone informed. Through innovative software we can see the progress of each of our sales in real time and so can our clients.&#8221; Andrea explained ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.capterra.com.au/directory/20038/law-practice-management/software&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECA8QAg&amp;usg=AOvVaw13zXw3HBIajSZADAyfMPHg" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECA8QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Legal Practice Management Software - Comparison &amp; Reviews</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.capterra.com.au &#8250; directory &#8250; law-practice-management &#8250; software</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">See the list of the best Legal Practice Management Software for businesses in Australia. Our free interactive tool makes software selection fast and easy ...</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad fP1Qef xpd EtOod pkphOe"><div class="egMi0 kCrYT"><a href="/url?q=https://www.retconveyancing.com.au/contact-us.html&amp;sa=U&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECB8QAg&amp;usg=AOvVaw1BK_nCKmsAM1BwLSX8ZHYF" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECB8QAg"><div class="DnJfK"><div class="j039Wc"><h3 class="zBAuLc l97dzf"><div class="BNeawe vvjwJb AP7Wnd">Contact us anytime or Upload your section 32 for review</div></h3></div>
+<div class="sCuL3"><div class="BNeawe UPmit AP7Wnd lRVwie">www.retconveyancing.com.au &#8250; contact-us</div></div></div></a></div>
+<div class="kCrYT"><div>
+<div class="BNeawe s3v9rd AP7Wnd"><div>
+<div>
+<div class="BNeawe s3v9rd AP7Wnd">We have the latest conveyancing software and technologies available to ... Our team of conveyancers and solicitors are committed to deliver exceptional service.</div></div></div></div></div></div></div></div>
+<div>
+<div class="Gx5Zad xpd EtOod pkphOe"><div class="K8tyEc"><div class="mEUgP"><span>
+<div class="BNeawe">Related searches</div></span></div></div>
+<div class="x54gtf"></div>
+<div>
+<div class="gGQDvd iIWm4b"><a class="Q71vJc" href="/search?num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;q=Best+conveyancing+software&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEAI" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEAI"><accordion-entry-search-icon>
+<span class="ieB2Dd"><img class="OEaqif" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px" id="dimg_1" data-deferred="1"></span></accordion-entry-search-icon>
+<div class="kjGX2"><span class="Xe4YD"><div class="BNeawe s3v9rd AP7Wnd lRVwie">Best conveyancing software</div></span></div></a></div></div>
+<div class="x54gtf"></div>
+<div>
+<div class="gGQDvd iIWm4b"><a class="Q71vJc" href="/search?num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;q=PEXA&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEAQ" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEAQ"><accordion-entry-search-icon>
+<span class="ieB2Dd"><img class="OEaqif" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px" id="dimg_3" data-deferred="1"></span></accordion-entry-search-icon>
+<div class="kjGX2"><span class="Xe4YD"><div class="BNeawe s3v9rd AP7Wnd lRVwie">PEXA</div></span></div></a></div></div>
+<div class="x54gtf"></div>
+<div>
+<div class="gGQDvd iIWm4b"><a class="Q71vJc" href="/search?num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;q=LEAP+Conveyancer+download&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEAY" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEAY"><accordion-entry-search-icon>
+<span class="ieB2Dd"><img class="OEaqif" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px" id="dimg_7" data-deferred="1"></span></accordion-entry-search-icon>
+<div class="kjGX2"><span class="Xe4YD"><div class="BNeawe s3v9rd AP7Wnd lRVwie">LEAP Conveyancer download</div></span></div></a></div></div>
+<div class="x54gtf"></div>
+<div>
+<div class="gGQDvd iIWm4b"><a class="Q71vJc" href="/search?num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;q=Realtime+Conveyancer&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEAg" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEAg"><accordion-entry-search-icon>
+<span class="ieB2Dd"><img class="OEaqif" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px" id="dimg_9" data-deferred="1"></span></accordion-entry-search-icon>
+<div class="kjGX2"><span class="Xe4YD"><div class="BNeawe s3v9rd AP7Wnd lRVwie">Realtime Conveyancer</div></span></div></a></div></div>
+<div class="x54gtf"></div>
+<div>
+<div class="gGQDvd iIWm4b"><a class="Q71vJc" href="/search?num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;q=LEAP+conveyancing&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEAo" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEAo"><accordion-entry-search-icon>
+<span class="ieB2Dd"><img class="OEaqif" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px" id="dimg_11" data-deferred="1"></span></accordion-entry-search-icon>
+<div class="kjGX2"><span class="Xe4YD"><div class="BNeawe s3v9rd AP7Wnd lRVwie">LEAP conveyancing</div></span></div></a></div></div>
+<div class="x54gtf"></div>
+<div>
+<div class="gGQDvd iIWm4b"><a class="Q71vJc" href="/search?num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;q=Download+triConvey&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEAw" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEAw"><accordion-entry-search-icon>
+<span class="ieB2Dd"><img class="OEaqif" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px" id="dimg_13" data-deferred="1"></span></accordion-entry-search-icon>
+<div class="kjGX2"><span class="Xe4YD"><div class="BNeawe s3v9rd AP7Wnd lRVwie">Download triConvey</div></span></div></a></div></div>
+<div class="x54gtf"></div>
+<div>
+<div class="gGQDvd iIWm4b"><a class="Q71vJc" href="/search?num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;q=triConvey+login&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEA4" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEA4"><accordion-entry-search-icon>
+<span class="ieB2Dd"><img class="OEaqif" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px" id="dimg_15" data-deferred="1"></span></accordion-entry-search-icon>
+<div class="kjGX2"><span class="Xe4YD"><div class="BNeawe s3v9rd AP7Wnd lRVwie">triConvey login</div></span></div></a></div></div>
+<div class="x54gtf"></div>
+<div>
+<div class="gGQDvd iIWm4b"><a class="Q71vJc" href="/search?num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;q=triConvey+support&amp;sa=X&amp;ved=2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEBA" data-ved="2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ1QJ6BAgDEBA"><accordion-entry-search-icon>
+<span class="ieB2Dd"><img class="OEaqif" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px" id="dimg_17" data-deferred="1"></span></accordion-entry-search-icon>
+<div class="kjGX2"><span class="Xe4YD"><div class="BNeawe s3v9rd AP7Wnd lRVwie">triConvey support</div></span></div></a></div></div></div></div>
+<footer> <div>  <div class="Gx5Zad xpd EtOod pkphOe BmP5tf"><div class="nMymef Va3FIb lVm3ye"><a class="nBDE1b G5eFlf" href="/search?q=conveyancing+software&amp;num=100&amp;sca_esv=580b38a03aa9e71a&amp;sca_upv=1&amp;ie=UTF-8&amp;ei=O1o5ZsGiKqGgnesPv4uciAE&amp;start=100&amp;sa=N" aria-label="Next page">Next &gt;</a></div></div> </div>  <div id="EOlPnc"><div class="Srfpq"><div>
+<span class="EYqSq unknown_loc"></span>
+<span class="dfB0uf">2067, Sydney NSW</span></div>
+<span>From your IP address</span>
+<span>&nbsp;-&nbsp;</span>
+<a class="IffyKc" href="/url?q=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den-AU&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQty4IgQQ&amp;usg=AOvVaw2N7hepDoRQEaefxrjrZada" aria-label="Learn more about this location" tabindex="0">Learn more</a></div>
+<div>
+<a href="/url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com.au/search%253Fnum%253D100%2526q%253Dconveyancing%252Bsoftware%26hl%3Den&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQxs8CCIIE&amp;usg=AOvVaw2iuhc0hISmpJz0MhphJT_l">Sign in</a></div>
+<div>
+<a class="xeDNfc" href="https://www.google.com.au/preferences?hl=en-AU&amp;fg=1&amp;sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQ5fUCCIME">Settings</a>
+<a class="xeDNfc" href="https://policies.google.com/privacy?hl=en-AU&amp;fg=1">Privacy</a>
+<a class="xeDNfc" href="https://policies.google.com/terms?hl=en-AU&amp;fg=1">Terms</a>
+<a class="xeDNfc" href="/setprefs?hl=en&amp;prev=https://www.google.com.au/search?num%3D100%26q%3Dconveyancing%2Bsoftware%26pccc%3D1&amp;sig=0_EtaUSYnW52toQ4outFsO0GXA61A%3D&amp;cs=2&amp;sa=X&amp;ved=0ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQjcAJCIQE">Dark theme: Off</a></div></div> </footer>
+<script nonce="W_ELUzUD1VzFIHGcVpRxEw">(function(){var hl='en-AU';(function(){
+var f=this||self,g=function(a){return a};var l=function(a,b){this.g=a===h&&b||"";this.i=k};l.prototype.toString=function(){return this.g};var m=function(a){return a instanceof l&&a.constructor===l&&a.i===k?a.g:"type_error:Const"},k={},h={};var p,q=function(){if(void 0===p){var a=null,b=f.trustedTypes;if(b&&b.createPolicy){try{a=b.createPolicy("goog#html",{createHTML:g,createScript:g,createScriptURL:g})}catch(c){f.console&&f.console.error(c.message)}p=a}else p=a}return p};var r=function(a){this.g=a};r.prototype.toString=function(){return this.g+""};var t=function(a){return a instanceof r&&a.constructor===r?a.g:"type_error:TrustedResourceUrl"},x=function(){var a={},b=m(new l(h,"/complete/search"));if(!u.test(b))throw Error("e`"+b);var c=b.replace(v,function(e,d){if(!Object.prototype.hasOwnProperty.call(a,d))throw Error("f`"+d+"`"+b+"`"+JSON.stringify(a));e=a[d];return e instanceof l?m(e):encodeURIComponent(String(e))});return w(c)},v=/%{(\w+)}/g,u=RegExp("^((https:)?//[0-9a-z.:[\\]-]+/|/[^/\\\\]|[^:/\\\\%]+/|[^:/\\\\%]*[?#]|about:blank#)","i"),y=/^([^?#]*)(\?[^#]*)?(#[\s\S]*)?/,z={},w=function(a){var b=q();a=b?b.createScriptURL(a):a;return new r(a,z)},A=function(a,b,c){if(null==c)return b;if("string"===typeof c)return c?a+encodeURIComponent(c):"";for(var e in c)if(Object.prototype.hasOwnProperty.call(c,e)){var d=c[e];d=Array.isArray(d)?d:[d];for(var n=0;n<d.length;n++){var O=d[n];null!=O&&(b||(b=a),b+=(b.length>a.length?"&":"")+encodeURIComponent(e)+"="+encodeURIComponent(String(O)))}}return b};var B={},C=function(a){this.g=a};C.prototype.toString=function(){return this.g.toString()};
+function D(a,b){if(1===a.nodeType){var c=a.tagName;if("SCRIPT"===c||"STYLE"===c)throw Error("g");}a.innerHTML=b instanceof C&&b.constructor===C?b.g:"type_error:SafeHtml"};function E(a){a=null===a?"null":void 0===a?"undefined":a;var b=q();a=b?b.createHTML(a):a;return new C(a,B)};var F=document.querySelector(".l"),G=document.querySelector("#sf"),H=G.querySelector(".sbc"),I=G.querySelector("[type=text]"),J=G.querySelector("[type=submit]"),K=G.querySelector(".sc"),L=G.querySelector(".x"),M=I.value,N=[],P=-1,Q=M,R,S,T;M||(L&&(L.style.display="none"),U(!1));function U(a){if(H.classList.contains("esbc")){var b=H.classList.contains("chsbc"),c=H.classList.contains("rtlsbc");a&&(K.style.display="block",b?(G.style.borderRadius="20px 20px 0 0",K.style.borderBottom="1px solid #DFE1E5",J.style.borderRadius=c?"20px 0 0 0":"0 20px 0 0"):H.style.borderRadius=c?"0 8px 0 0":"8px 0 0 0");a||(K.style.display="none",b?(G.style.borderRadius="20px",K.style.borderBottom="none",J.style.borderRadius=c?"20px 0 0 20px":"0 20px 20px 0"):H.style.borderRadius=c?"0 8px 8px 0":"8px 0 0 8px")}}function V(){G.querySelector("[name=oq]").value=Q;G.querySelector("[name=aqs]").value="heirloom-srp."+(0<=P?P:"")+"."+(0<N.length?"0l"+N.length:"")}
+function W(){R=null;if(S){var a={client:"heirloom-srp",hl:hl,json:"t",callback:"hS",q:S};"undefined"!==typeof ds&&ds&&(a.ds=ds);var b=document;var c="SCRIPT";"application/xhtml+xml"===b.contentType&&(c=c.toLowerCase());c=b.createElement(c);b=x();b=y.exec(t(b).toString());var e=b[3]||"";a=w(b[1]+A("?",b[2]||"",a)+A("#",e));c.src=t(a);var d,n;(d=(a=null==(n=(d=(c.ownerDocument&&c.ownerDocument.defaultView||window).document).querySelector)?void 0:n.call(d,"script[nonce]"))?a.nonce||a.getAttribute("nonce")||
+"":"")&&c.setAttribute("nonce",d);document.body.appendChild(c);S=null;R=setTimeout(W,500)}}function X(){for(;K.firstChild;)K.removeChild(K.firstChild);N=[];P=-1;U(!1)}function Y(){var a=K.querySelector(".scs");a&&(a.className="");0<=P?(a=K.childNodes[P],a.className="scs",M=a.textContent):M=Q;I.value=M}I.addEventListener("focus",function(){F&&(F.style.display="none")},!1);I.addEventListener("blur",function(){X();F&&(F.style.display="")},!1);I.addEventListener("keyup",function(a){M=I.value;T=!1;13===a.which?V():27===a.which?(X(),F&&(F.style.display=""),M=Q,I.value=M):40===a.which?(P++,P>=N.length&&(P=-1),Y()):38===a.which?(P--,-1>P&&(P=N.length-1),Y()):(a=M)?(L&&(L.style.display=""),S=a,R||W(),Q=a):(L&&(L.style.display="none"),U(!1),X(),Q="",T=!0)},!1);J.addEventListener("click",V,!1);L.addEventListener("click",function(){I.value="";L.style.display="none";U(!1)},!1);H.addEventListener("click",function(){I.focus()},!1);window.hS=function(a){if(!T){X();0===a[1].length&&U(!1);for(var b=0;b<a[1].length;b++){var c=a[1][b][0],e=document.createElement("div");D(e,E(c));e.addEventListener("mousedown",function(d){d.preventDefault();return!1},!1);c=c.replace(/<\/?b>/g,"");e.addEventListener("click",function(d){return function(){P=d;V();Y();X();G.submit()}}(b),!1);e.addEventListener("mouseover",function(d){return function(){P!==d&&(P=d,Y())}}(b),!1);K.appendChild(e);U(!0);N.push(c)}}};}).call(this);})();(function(){window.prh=function(d,a){a=a.split(",");for(var b=0;b<a.length;b++){var c=document.createElement("link");c.rel=d;c.href=a[b];(document.head||document.querySelector("head")).appendChild(c)}};}).call(this);(function(){function b(a){for(a=a.target||a.srcElement;a&&"A"!==a.nodeName;)a=a.parentElement;a&&(a.href||"").match(/\/search.*[?&]tbm=isch/)&&(a.href+="&biw="+document.documentElement.clientWidth,a.href+="&bih="+document.documentElement.clientHeight)}document.addEventListener("click",b,!1);document.addEventListener("touchStart",b,!1);}).call(this);</script></div><!-- cctlcm 5 cctlcm --><textarea class="csi" name="csi" style="display:none"></textarea>
+<script nonce="W_ELUzUD1VzFIHGcVpRxEw">(function(){var e='O1o5ZsGiKqGgnesPv4uciAE';var sn='web';var timl=false;(function(){function C(a){if(!a||D(a))return 0;if(!a.getBoundingClientRect)return 1;var c=function(d){return d.getBoundingClientRect()};if(E(a,c))return 0;var b;return K(a,c,null==(b=google.c)?void 0:b.cvb)}
+function E(a,c){var b;a:{for(b=a;b&&null!==b;b=b.parentElement)if("hidden"===b.style.overflow||"G-EXPANDABLE-CONTENT"===b.tagName&&"hidden"===getComputedStyle(b).getPropertyValue("overflow"))break a;b=null}if(!b)return!1;a=c(a);c=c(b);return a.bottom<c.top||a.top>=c.bottom||a.right<c.left||a.left>=c.right}
+function D(a){return"none"===a.style.display?!0:document.defaultView&&document.defaultView.getComputedStyle?(a=document.defaultView.getComputedStyle(a),!!a&&("hidden"===a.visibility||"0px"===a.height&&"0px"===a.width)):!1}
+function K(a,c){var b=c(a);a=b.left+window.pageXOffset;c=b.top+window.pageYOffset;var d=b.width;b=b.height;var f=0;if(0>=b&&0>=d)return f;var q=window.innerHeight||document.documentElement.clientHeight;0>c+b?f=2:c>=q&&(f=4);if(0>a+d||a>=(window.innerWidth||document.documentElement.clientWidth))f|=8;f||(f=1,c+b>q&&(f|=4));return f};var L=e,M=sn,N="undefined"===typeof de?!0:!1!==de,O=[];function P(a,c,b){a="/gen_204?atyp=csi&s="+M+"&t="+a+("&lite=1&ei="+L+"&conn="+(window.navigator&&window.navigator.connection?window.navigator.connection.type:-1)+c);c="&rt=";for(var d in b)a+=""+c+d+"."+b[d],c=",";return a}function Q(a){a={prt:a};window.wsrt&&(a.wsrt=window.wsrt);return a}function R(a){window.ping?window.ping(a):(new Image).src=a}
+(function(){for(var a=(new Date).getTime()-window.start,c=Q(a),b=0,d=0,f=0,q=document.getElementsByTagName("img"),r=N?"&biw="+window.innerWidth+"&bih="+window.innerHeight:"",F=function(){r+="&ima="+f;c.aft=b;R(P("aft",r,c))},y=0,S=function(g,t,u){var n=g.src;g.onload=function(){u&&n&&n===g.src||(d=(new Date).getTime()-window.start,t&&++y===f&&(b=d,F()),g.onload=null)}},T=0,h=void 0;h=q[T++];){var v=C(h),p=!!(v&1);p&&++f;var l=h.hasAttribute("data-ilite"),w=h.hasAttribute("data-deferred"),G=h.hasAttribute("data-src")||
+h.hasAttribute("data-lzysrc"),z=!w&&!l&&G;O.push([v,w||l,z,h.id,l&&G]);l=(v=h.complete&&!w&&!(p&&z))&&Number(h.getAttribute("data-iml"))||0;v&&l?(p&&++y,l&&(h=l-window.start,p&&(b=Math.max(b,h)),d=Math.max(d,h))):S(h,p,w||z)}b||(b=a);d||(d=b);y===f&&F();google.rglh&&google.rglh();window.addEventListener("load",function(){window.setTimeout(function(){c.ol=(new Date).getTime()-window.start;timl&&(c.iml=d);var g=window.performance&&window.performance.timing;g&&(c.rqst=g.responseEnd-g.requestStart,c.rspt=
+g.responseEnd-g.responseStart);for(var t=g=0,u=0,n=0,H=0,I=0,U=0,k;k=O[U++];){var m=k[0],A=k[1],J=k[2],x=k[3];k=k[4]||google.ldi&&x&&google.ldi[x];x=0==m;var V=m&8,B=m&1;m=!B&&m&4;B&&(A&&!k||++u,J&&++I);A&&(B&&k&&++g,m&&!k&&++t);x||V?J||++H:A||++n}r+="&ime="+u+"&imel="+I+("&imex="+n+"&imeh="+H)+("&imea="+g+"&imeb="+t);R(P("all",r,c))},0)},!1)})();}).call(this);})();(function(){window.google=window.google||{};window.google.ishk=[];function a(){return window.scrollY+window.document.documentElement.clientHeight>=Math.max(document.body.scrollHeight,document.body.offsetHeight)}function b(){a()&&0===window.google.ishk.length&&(window.google.bs=!0,window.removeEventListener("scroll",b))}a()?window.google.bs=!0:(window.google.bs=!1,window.addEventListener("scroll",b));}).call(this);</script>
+<style>.v0rrvd{padding-bottom:16px}.OSrXXb{overflow:hidden;text-overflow:ellipsis}.cHaqb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.q8U8x{font-family:Google Sans,Roboto,Helvetica Neue,Arial,sans-serif;font-weight:400}.lUn2nc{padding-right:12px}.MBeuO{font-family:Roboto,Helvetica Neue,Arial,sans-serif;font-size:18px;font-weight:400}.MBeuO{line-height:24px}.wHYlTd{font-family:Roboto,Helvetica Neue,Arial,sans-serif;font-size:14px;line-height:20px}.tNxQIb{font-family:Roboto,Helvetica Neue,Arial,sans-serif;font-size:16px;font-weight:400;line-height:20px}</style>
+<script nonce="W_ELUzUD1VzFIHGcVpRxEw">(function(){prh('preconnect', 'http://www.googleadservices.com/')})();window._setImagesSrc=function(f,c){function h(a){a.onerror=function(){a.style.display="none"};a.setAttribute("data-deferred","2");"data:"!==c.substring(0,5)&&a.setAttribute("data-defe","1");a.src=c;var g;(null==(g=google.c)?0:g.di)&&a.decode()}for(var d=0;d<f.length;++d){var b=f[d],e=document.getElementById(b)||document.querySelector('img[data-iid="'+b+'"]');e?(b=void 0,(null==(b=google.c)?0:b.setup)&&google.c.setup(e),h(e)):(google.iir=google.iir||{},google.iir[b]=c)}};"undefined"===typeof window.google&&(window.google={});(function(){var e='O1o5ZsGiKqGgnesPv4uciAE';(function(){var a=e;if(2===(window.performance&&window.performance.navigation&&window.performance.navigation.type)){var b="",c=[],d=void 0!==window.google&&void 0!==window.google.kOPI&&0!==window.google.kOPI?window.google.kOPI:null;null!=d&&c.push(["opi",d.toString()]);for(var f=0;f<c.length;f++){if(0===f||0<f)b+="&";b+=c[f][0]+"="+c[f][1]}window.ping("/gen_204?ct=backbutton&ei="+a+b)};}).call(this);})();(function(){var b=[function(){google.tick&&google.tick("load","dcl")}];google.dclc=function(a){b.length?b.push(a):a()};function c(){for(var a=b.shift();a;)a(),a=b.shift()}window.addEventListener?(document.addEventListener("DOMContentLoaded",c,!1),window.addEventListener("load",c,!1)):window.attachEvent&&window.attachEvent("onload",c);}).call(this);(function(){google.ldi={"dimg_5":"https://encrypted-tbn3.gstatic.com/images?q\u003dtbn:ANd9GcTaiwyx2dJxl0vzwVrWEsEVwC26loRjWwa5hXH0ZR9vDFvvYGOPQLKkBdu6","dimg_19":"https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSXyweTscFDP8lcL675x-PayHv7JUZ3knmoAy1ZSp_ZQ0xwRhdLrLQmv3KNFA\u0026s","dimg_21":"https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSrtvC0x_zR-fksv6XPemrzRjsQcgfI7wqjeDQJLlD3e9_lu7APjC2c5RnSkWU\u0026s","dimg_23":"https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSZgsTjmLI0lpI37cT2Igw83V_fV_YfbQE8VWTuavaju5HUDAxmarJX-nohjgs\u0026s","dimg_25":"https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcR4vXInhXfrC_TGcmc0SEqLcfh3GvYNHRsGwWjFxiAKsalyAXqfiitiduckGA\u0026s","dimg_27":"https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQjjE7AYvA9t2Ioes4iSNCzDJsXxMcxC6aLLLesnz45z43OEsCt9cw92ZZmfGM\u0026s","dimg_29":"https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSWOYYphrDHgGY-wCM5MHonWAI8G-IhF_Qdphvp4KF9tyuUlP7t97V3g7gC2ls\u0026s","dimg_31":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAgMAAACdGdVrAAAADFBMVEVMaXFChfRChfRChfT0tCPZAAAAA3RSTlMAgFJEkGxNAAAAL0lEQVR4AWPADxgdwBT3BTDF9AUiuhdC6WNK/v///y+UggrClSA07EWVglmEFwAA5eYSExeCwigAAAAASUVORK5CYII\u003d","dimg_1":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABAUlEQVR4AWMYesChoYElLjkzPj4lY3d8csZjIL4MxPNjUzPcSTYsISFLAqj5NBD/h+LPQPwbiT87NCuLh2gDgRr2QzXuT0jNMoBYksARn5zuHJ+UcR0kB6RXE2VYXHJGOlTDZmzyIJcB5e+D1CSkZDgQNBAaZv+jU1JkcKpJygiGeZ0I76a/Byq8jU9NZFqaCNTA48SE33/iDcw8TIyBt0GKQTFN0Msp6f2EIyUpo57YSIlLSrMhIg0WCIBcCfXSdlzJBsheTHQ6jEnOUgEFOLaEDbMIlhZBOYrorAdJk+nroVnvPsSgdGdoOF7HZyhZ2XPoGQoqjbCpIbt0AiejIQMArVLI7k/DXFkAAAAASUVORK5CYII\u003d","dimg_3":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABAUlEQVR4AWMYesChoYElLjkzPj4lY3d8csZjIL4MxPNjUzPcSTYsISFLAqj5NBD/h+LPQPwbiT87NCuLh2gDgRr2QzXuT0jNMoBYksARn5zuHJ+UcR0kB6RXE2VYXHJGOlTDZmzyIJcB5e+D1CSkZDgQNBAaZv+jU1JkcKpJygiGeZ0I76a/Byq8jU9NZFqaCNTA48SE33/iDcw8TIyBt0GKQTFN0Msp6f2EIyUpo57YSIlLSrMhIg0WCIBcCfXSdlzJBsheTHQ6jEnOUgEFOLaEDbMIlhZBOYrorAdJk+nroVnvPsSgdGdoOF7HZyhZ2XPoGQoqjbCpIbt0AiejIQMArVLI7k/DXFkAAAAASUVORK5CYII\u003d","dimg_7":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABAUlEQVR4AWMYesChoYElLjkzPj4lY3d8csZjIL4MxPNjUzPcSTYsISFLAqj5NBD/h+LPQPwbiT87NCuLh2gDgRr2QzXuT0jNMoBYksARn5zuHJ+UcR0kB6RXE2VYXHJGOlTDZmzyIJcB5e+D1CSkZDgQNBAaZv+jU1JkcKpJygiGeZ0I76a/Byq8jU9NZFqaCNTA48SE33/iDcw8TIyBt0GKQTFN0Msp6f2EIyUpo57YSIlLSrMhIg0WCIBcCfXSdlzJBsheTHQ6jEnOUgEFOLaEDbMIlhZBOYrorAdJk+nroVnvPsSgdGdoOF7HZyhZ2XPoGQoqjbCpIbt0AiejIQMArVLI7k/DXFkAAAAASUVORK5CYII\u003d","dimg_9":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABAUlEQVR4AWMYesChoYElLjkzPj4lY3d8csZjIL4MxPNjUzPcSTYsISFLAqj5NBD/h+LPQPwbiT87NCuLh2gDgRr2QzXuT0jNMoBYksARn5zuHJ+UcR0kB6RXE2VYXHJGOlTDZmzyIJcB5e+D1CSkZDgQNBAaZv+jU1JkcKpJygiGeZ0I76a/Byq8jU9NZFqaCNTA48SE33/iDcw8TIyBt0GKQTFN0Msp6f2EIyUpo57YSIlLSrMhIg0WCIBcCfXSdlzJBsheTHQ6jEnOUgEFOLaEDbMIlhZBOYrorAdJk+nroVnvPsSgdGdoOF7HZyhZ2XPoGQoqjbCpIbt0AiejIQMArVLI7k/DXFkAAAAASUVORK5CYII\u003d","dimg_11":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABAUlEQVR4AWMYesChoYElLjkzPj4lY3d8csZjIL4MxPNjUzPcSTYsISFLAqj5NBD/h+LPQPwbiT87NCuLh2gDgRr2QzXuT0jNMoBYksARn5zuHJ+UcR0kB6RXE2VYXHJGOlTDZmzyIJcB5e+D1CSkZDgQNBAaZv+jU1JkcKpJygiGeZ0I76a/Byq8jU9NZFqaCNTA48SE33/iDcw8TIyBt0GKQTFN0Msp6f2EIyUpo57YSIlLSrMhIg0WCIBcCfXSdlzJBsheTHQ6jEnOUgEFOLaEDbMIlhZBOYrorAdJk+nroVnvPsSgdGdoOF7HZyhZ2XPoGQoqjbCpIbt0AiejIQMArVLI7k/DXFkAAAAASUVORK5CYII\u003d","dimg_13":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABAUlEQVR4AWMYesChoYElLjkzPj4lY3d8csZjIL4MxPNjUzPcSTYsISFLAqj5NBD/h+LPQPwbiT87NCuLh2gDgRr2QzXuT0jNMoBYksARn5zuHJ+UcR0kB6RXE2VYXHJGOlTDZmzyIJcB5e+D1CSkZDgQNBAaZv+jU1JkcKpJygiGeZ0I76a/Byq8jU9NZFqaCNTA48SE33/iDcw8TIyBt0GKQTFN0Msp6f2EIyUpo57YSIlLSrMhIg0WCIBcCfXSdlzJBsheTHQ6jEnOUgEFOLaEDbMIlhZBOYrorAdJk+nroVnvPsSgdGdoOF7HZyhZ2XPoGQoqjbCpIbt0AiejIQMArVLI7k/DXFkAAAAASUVORK5CYII\u003d","dimg_15":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABAUlEQVR4AWMYesChoYElLjkzPj4lY3d8csZjIL4MxPNjUzPcSTYsISFLAqj5NBD/h+LPQPwbiT87NCuLh2gDgRr2QzXuT0jNMoBYksARn5zuHJ+UcR0kB6RXE2VYXHJGOlTDZmzyIJcB5e+D1CSkZDgQNBAaZv+jU1JkcKpJygiGeZ0I76a/Byq8jU9NZFqaCNTA48SE33/iDcw8TIyBt0GKQTFN0Msp6f2EIyUpo57YSIlLSrMhIg0WCIBcCfXSdlzJBsheTHQ6jEnOUgEFOLaEDbMIlhZBOYrorAdJk+nroVnvPsSgdGdoOF7HZyhZ2XPoGQoqjbCpIbt0AiejIQMArVLI7k/DXFkAAAAASUVORK5CYII\u003d","dimg_17":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABAUlEQVR4AWMYesChoYElLjkzPj4lY3d8csZjIL4MxPNjUzPcSTYsISFLAqj5NBD/h+LPQPwbiT87NCuLh2gDgRr2QzXuT0jNMoBYksARn5zuHJ+UcR0kB6RXE2VYXHJGOlTDZmzyIJcB5e+D1CSkZDgQNBAaZv+jU1JkcKpJygiGeZ0I76a/Byq8jU9NZFqaCNTA48SE33/iDcw8TIyBt0GKQTFN0Msp6f2EIyUpo57YSIlLSrMhIg0WCIBcCfXSdlzJBsheTHQ6jEnOUgEFOLaEDbMIlhZBOYrorAdJk+nroVnvPsSgdGdoOF7HZyhZ2XPoGQoqjbCpIbt0AiejIQMArVLI7k/DXFkAAAAASUVORK5CYII\u003d"};(function(){google.dclc(function(){for(var a in google.ldi)window._setImagesSrc([a],google.ldi[a])});}).call(this);})();(function(){var c=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}};
+var e=this||self;var g,h;a:{for(var k=["CLOSURE_FLAGS"],l=e,n=0;n<k.length;n++)if(l=l[k[n]],null==l){h=null;break a}h=l}var p=h&&h[610401301];g=null!=p?p:!1;var q,r=e.navigator;q=r?r.userAgentData||null:null;function t(a){return g?q?q.brands.some(function(b){return(b=b.brand)&&-1!=b.indexOf(a)}):!1:!1}function u(a){var b;a:{if(b=e.navigator)if(b=b.userAgent)break a;b=""}return-1!=b.indexOf(a)};function v(){return g?!!q&&0<q.brands.length:!1}function w(){return u("Safari")&&!(x()||(v()?0:u("Coast"))||(v()?0:u("Opera"))||(v()?0:u("Edge"))||(v()?t("Microsoft Edge"):u("Edg/"))||(v()?t("Opera"):u("OPR"))||u("Firefox")||u("FxiOS")||u("Silk")||u("Android"))}function x(){return v()?t("Chromium"):(u("Chrome")||u("CriOS"))&&!(v()?0:u("Edge"))||u("Silk")}function y(){return u("Android")&&!(x()||u("Firefox")||u("FxiOS")||(v()?0:u("Opera"))||u("Silk"))};var z=v()?!1:u("Trident")||u("MSIE");y();x();w();var A;A="function"===typeof Symbol&&"symbol"===typeof Symbol()?Symbol():void 0;var B=[];(A?function(a,b){a[A]=b}:function(a,b){void 0!==a.g?a.g=b:Object.defineProperties(a,{g:{value:b,configurable:!0,writable:!0,enumerable:!1}})})(B,55);Object.freeze(B);Object.freeze(new function(){});Object.freeze(new function(){});var C=!z&&!w(),F=function(a){if(/-[a-z]/.test("ved"))return null;if(C&&a.dataset){if(y()&&!("ved"in a.dataset))return null;a=a.dataset.ved;return void 0===a?null:a}return a.getAttribute("data-"+"ved".replace(/([A-Z])/g,"-$1").toLowerCase())};var G=[],H=null;function I(a){a=a.target;var b=performance.now(),f=[],J=f.concat,d=G;if(!(d instanceof Array)){var m="undefined"!=typeof Symbol&&Symbol.iterator&&d[Symbol.iterator];if(m)d=m.call(d);else if("number"==typeof d.length)d={next:c(d)};else throw Error("b`"+String(d));for(var D=[];!(m=d.next()).done;)D.push(m.value);d=D}G=J.call(f,d,[b]);if(a&&a instanceof HTMLElement)if(a===H){if(b=4<=G.length)b=5>(G[G.length-1]-G[G.length-4])/1E3;if(b){b=google.getEI(a);a.hasAttribute("data-ved")?f=a?F(a)||"":"":f=(f=
+a.closest("[data-ved]"))?F(f)||"":"";f=f||"";if(a.hasAttribute("jsname"))a=a.getAttribute("jsname");else{var E;a=null==(E=a.closest("[jsname]"))?void 0:E.getAttribute("jsname")}google.log("rcm","&ei="+b+"&ved="+f+"&jsname="+(a||""))}}else H=a,G=[b]}window.document.addEventListener("DOMContentLoaded",function(){document.body.addEventListener("click",I)});}).call(this);var w=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}};window.jsl=window.jsl||{};window.jsl.dh=function(a,b,m){try{var h=document.getElementById(a),e;if(!h&&(null==(e=google.stvsc)?0:e.dds)){e=[];var f=e.concat,c=google.stvsc.dds;if(c instanceof Array)var n=c;else{var p="undefined"!=typeof Symbol&&Symbol.iterator&&c[Symbol.iterator];if(p)var g=p.call(c);else if("number"==typeof c.length)g={next:w(c)};else throw Error(String(c)+" is not an iterable or ArrayLike");c=g;var q;for(g=[];!(q=c.next()).done;)g.push(q.value);n=g}var r=f.call(e,n);for(f=0;f<r.length&&!(h=r[f].getElementById(a));f++);}if(h)h.innerHTML=b,m&&m();else{var d={id:a,script:String(!!m),milestone:String(google.jslm||0)};google.jsla&&(d.async=google.jsla);var t=a.indexOf("_"),k=0<t?a.substring(0,t):"",u=document.createElement("div");u.innerHTML=b;var l=u.children[0];if(l&&(d.tag=l.tagName,d["class"]=String(l.className||null),d.name=String(l.getAttribute("jsname")),k)){a=[];var v=document.querySelectorAll('[id^="'+k+'_"]');for(b=0;b<v.length;++b)a.push(v[b].id);d.ids=a.join(",")}google.ml(Error(k?"Missing ID with prefix "+
+k:"Missing ID"),!1,d)}}catch(x){google.ml(x,!0,{"jsl.dh":!0})}};(function(){var x=false;google.jslm=x?2:1;})();(function(){(function(){google.csct={};google.csct.ps='AOvVaw0WSYLON01zFaTmYcPmr4R8\x26ust\x3d1715121083724065';})();})();(function(){(function(){google.csct.rd=true;})();})();(function(){(function(){google.csct.rl=true;})();})();(function(){window.xp=function(b){function f(k,g,h){return"xp"+("x"==g?"c":"x")+h}for(var c=/\bxp(x|c)(\d?)\b/,a=b;a;){var e=a.className,d=e.match(c);if(d){d="c"==d[1];a.className=e.replace(c,f);b&&b.setAttribute("aria-expanded",d);if(d)for(b=a.getElementsByTagName("img"),c=0;c<b.length;++c)if(a=b[c],e=a.getAttribute("data-ll"))a.src=e,a.removeAttribute("data-ll");break}a=a.parentElement}};})();(function(){(function(){window.logVe=function(a){a&&a.attributes["data-ved"]&&window.ping("/gen_204?ved="+a.attributes["data-ved"].value)};}).call(this);})();(function(){(function(){var id='tsuid_1';var lve=true;(function(){
+var e="undefined"!==typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={Enter:13," ":32},h={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},k={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},l={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;!c&&d.key&&(c=g[d.key]);e&&3===c&&(c=13);if(13!==c&&32!==c)c=!1;else{var a=d.target;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!==d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in l);b=!(b&&!("BUTTON"===a.tagName.toUpperCase()||a.type&&"FILE"===a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||
+a.tagName).toUpperCase()in k&&32===c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var m=!(b in h)&&13===c;a="INPUT"!==a.tagName.toUpperCase()||!!a.type;c=(0===h[b]%c||m)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl=window.jsl||{};window.jsl.dh=window.jsl.dh||function(i,c,d){try{var e=document.getElementById(i);if(e){e.innerHTML=c;if(d){d();}}else{if(window.jsl.el){window.jsl.el(new Error('Missing ID.'),{'id':i});}}}catch(e){if(window.jsl.el){window.jsl.el(new Error('jsl.dh'));}}};})();(function(){window.jsl.dh('accdef_1','\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px;padding-top:0px\x22 class\x3d\x22hwc kCrYT\x22\x3e\x3cdiv class\x3d\x22yStFkb\x22\x3e\x3cdiv class\x3d\x22Gx5Zad xpd EtOod pkphOe\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv class\x3d\x22PqksIc nRlVm\x22\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3etriConvey is a practice management software built for conveyancers. With powerful integrated tools and automations, triConvey creates time for users so they can focus on the things that are important to them. Below are a list of features and benefits available to all triConvey users.\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?q\x3dhttps://www.trisearch.com.au/triconvey/\x26amp;sa\x3dU\x26amp;ved\x3d2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAcQBg\x26amp;usg\x3dAOvVaw3-ZWlzx6TNaemo5vPdgF4Y\x22 data-ved\x3d\x222ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAcQBg\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3e\x3cspan class\x3d\x22rQMQod Xb5VRe\x22\x3etriConvey - triSearch\x3c/span\x3e\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3ewww.trisearch.com.au \u203a triconvey\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H\x22 href\x3d\x22https://www.google.com.au/search?num\x3d100\x26amp;sca_esv\x3d580b38a03aa9e71a\x26amp;sca_upv\x3d1\x26amp;ie\x3dUTF-8\x26amp;ei\x3dO1o5ZsGiKqGgnesPv4uciAE\x26amp;q\x3dWhat+software+do+conveyancers+use?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQzmd6BAgHEAc\x22 data-ved\x3d\x222ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQzmd6BAgHEAc\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){(function(){var id='tsuid_2';var lve=true;(function(){
+var e="undefined"!==typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={Enter:13," ":32},h={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},k={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},l={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;!c&&d.key&&(c=g[d.key]);e&&3===c&&(c=13);if(13!==c&&32!==c)c=!1;else{var a=d.target;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!==d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in l);b=!(b&&!("BUTTON"===a.tagName.toUpperCase()||a.type&&"FILE"===a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||
+a.tagName).toUpperCase()in k&&32===c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var m=!(b in h)&&13===c;a="INPUT"!==a.tagName.toUpperCase()||!!a.type;c=(0===h[b]%c||m)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl.dh('accdef_3','\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px;padding-top:0px\x22 class\x3d\x22hwc kCrYT\x22\x3e\x3cdiv class\x3d\x22yStFkb\x22\x3e\x3cdiv class\x3d\x22Gx5Zad xpd EtOod pkphOe\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv class\x3d\x22PqksIc nRlVm\x22\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eThe fee depends on the property type, value, location, transaction difficulty, and individual conveyancer fees. Average conveyancing costs in NSW can range from $1 000 to $2 500. The amount of conveyancing fees for NSW property sales makes using a reliable licensed conveyancer essential.\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?q\x3dhttps://strictlyconveyancing.com.au/conveyancer-fees-in-nsw-what-to-expect/\x26amp;sa\x3dU\x26amp;ved\x3d2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAcQDQ\x26amp;usg\x3dAOvVaw2MP3O_2MdZJ6CfZVQt5pqV\x22 data-ved\x3d\x222ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAcQDQ\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3e\x3cspan class\x3d\x22rQMQod Xb5VRe\x22\x3eConveyancer Fees in NSW - What to Expect\x3c/span\x3e\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3estrictlyconveyancing.com.au \u203a conveyancer-fees-in-nsw-what-to-expect\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H\x22 href\x3d\x22https://www.google.com.au/search?num\x3d100\x26amp;sca_esv\x3d580b38a03aa9e71a\x26amp;sca_upv\x3d1\x26amp;ie\x3dUTF-8\x26amp;ei\x3dO1o5ZsGiKqGgnesPv4uciAE\x26amp;q\x3dHow+much+is+a+conveyancer+fee+in+NSW?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQzmd6BAgHEA4\x22 data-ved\x3d\x222ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQzmd6BAgHEA4\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){(function(){var id='tsuid_3';var lve=true;(function(){
+var e="undefined"!==typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={Enter:13," ":32},h={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},k={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},l={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;!c&&d.key&&(c=g[d.key]);e&&3===c&&(c=13);if(13!==c&&32!==c)c=!1;else{var a=d.target;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!==d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in l);b=!(b&&!("BUTTON"===a.tagName.toUpperCase()||a.type&&"FILE"===a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||
+a.tagName).toUpperCase()in k&&32===c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var m=!(b in h)&&13===c;a="INPUT"!==a.tagName.toUpperCase()||!!a.type;c=(0===h[b]%c||m)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl.dh('accdef_5','\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px;padding-top:0px\x22 class\x3d\x22hwc kCrYT\x22\x3e\x3cdiv class\x3d\x22yStFkb\x22\x3e\x3cdiv class\x3d\x22Gx5Zad xpd EtOod pkphOe\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv class\x3d\x22PqksIc nRlVm\x22\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eIn conclusion, I cannot recommend Sonny highly enough. If you\x27re in need of a conveyancer who combines expertise, professionalism, and genuine care for their clients, look no further. With Conveyancing.com.au by your side, you can rest assured that your property transaction is in the best possible hands.\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?q\x3dhttps://www.productreview.com.au/listings/think-conveyancing-nsw\x26amp;sa\x3dU\x26amp;ved\x3d2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAcQFA\x26amp;usg\x3dAOvVaw1zF43A4hRY2ay26A7i1XBk\x22 data-ved\x3d\x222ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAcQFA\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3e\x3cspan class\x3d\x22rQMQod Xb5VRe\x22\x3eConveyancing.com.au NSW - Product Review\x3c/span\x3e\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3ewww.productreview.com.au \u203a listings \u203a think-conveyancing-nsw\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H\x22 href\x3d\x22https://www.google.com.au/search?num\x3d100\x26amp;sca_esv\x3d580b38a03aa9e71a\x26amp;sca_upv\x3d1\x26amp;ie\x3dUTF-8\x26amp;ei\x3dO1o5ZsGiKqGgnesPv4uciAE\x26amp;q\x3dIs+conveyancing.com.au+good?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQzmd6BAgHEBU\x22 data-ved\x3d\x222ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQzmd6BAgHEBU\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){(function(){var id='tsuid_4';var lve=true;(function(){
+var e="undefined"!==typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={Enter:13," ":32},h={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},k={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},l={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;!c&&d.key&&(c=g[d.key]);e&&3===c&&(c=13);if(13!==c&&32!==c)c=!1;else{var a=d.target;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!==d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in l);b=!(b&&!("BUTTON"===a.tagName.toUpperCase()||a.type&&"FILE"===a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||
+a.tagName).toUpperCase()in k&&32===c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var m=!(b in h)&&13===c;a="INPUT"!==a.tagName.toUpperCase()||!!a.type;c=(0===h[b]%c||m)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl.dh('accdef_7','\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px;padding-top:0px\x22 class\x3d\x22hwc kCrYT\x22\x3e\x3cdiv class\x3d\x22yStFkb\x22\x3e\x3cdiv class\x3d\x22Gx5Zad xpd EtOod pkphOe\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv class\x3d\x22PqksIc nRlVm\x22\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eGenerally speaking, hiring a conveyancer is recommended if your property sale or purchase is pretty straightforward, you don\x27t need any advice on property law, or you want a bit more support throughout the process.\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?q\x3dhttps://www.savings.com.au/home-loans/what-does-a-conveyancer-do-and-do-you-need-one\x26amp;sa\x3dU\x26amp;ved\x3d2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAcQGw\x26amp;usg\x3dAOvVaw3lhtKVzBw8IecPSJKZuVyB\x22 data-ved\x3d\x222ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQFnoECAcQGw\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3e\x3cspan class\x3d\x22rQMQod Xb5VRe\x22\x3eWhat\x27s a Conveyancer: Do You Need One? | Savings.com.au\x3c/span\x3e\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3ewww.savings.com.au \u203a what-does-a-conveyancer-do-and-do-you-need-one\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H\x22 href\x3d\x22https://www.google.com.au/search?num\x3d100\x26amp;sca_esv\x3d580b38a03aa9e71a\x26amp;sca_upv\x3d1\x26amp;ie\x3dUTF-8\x26amp;ei\x3dO1o5ZsGiKqGgnesPv4uciAE\x26amp;q\x3dIs+conveyancer+worth+it?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQzmd6BAgHEBw\x22 data-ved\x3d\x222ahUKEwiBrOWIivqFAxUhUGcHHb8FBxEQzmd6BAgHEBw\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();if (!google.stvsc){google.drty && google.drty(undefined,true);}
+</script></body></html>
